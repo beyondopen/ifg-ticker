@@ -159,43 +159,201 @@
   },
   {
     "url": "http://www.sz-online.de/Sachsen.rss",
-    "outlet": "Sächische Zeitung",
+    "outlet": "Sächsische Zeitung",
     "delicateURLs": false,
     "redirectLinks": false
   },
   {
     "url": "http://www.sz-online.de/Multimedia.rss",
-    "outlet": "Sächische Zeitung",
+    "outlet": "Sächsische Zeitung",
     "delicateURLs": false,
     "redirectLinks": false
   },
   {
     "url": "http://www.sz-online.de/Kultur.rss",
-    "outlet": "Sächische Zeitung",
+    "outlet": "Sächsische Zeitung",
     "delicateURLs": false,
     "redirectLinks": false
   },
   {
     "url": "http://www.sz-online.de/Panorama.rss",
-    "outlet": "Sächische Zeitung",
+    "outlet": "Sächsische Zeitung",
     "delicateURLs": false,
     "redirectLinks": false
   },
   {
     "url": "http://www.sz-online.de/Wissen.rss",
-    "outlet": "Sächische Zeitung",
+    "outlet": "Sächsische Zeitung",
     "delicateURLs": false,
     "redirectLinks": false
   },
   {
     "url": "http://www.sz-online.de/Wirtschaft.rss",
-    "outlet": "Sächische Zeitung",
+    "outlet": "Sächsische Zeitung",
     "delicateURLs": false,
     "redirectLinks": false
   },
   {
     "url": "http://www.sz-online.de/Politik.rss",
-    "outlet": "Sächische Zeitung",
+    "outlet": "Sächsische Zeitung",
+    "delicateURLs": false,
+    "redirectLinks": false
+  },
+  {
+    "url": "http://www.svz.de/rss",
+    "outlet": "Schweriner Volkszeitung",
+    "delicateURLs": false,
+    "redirectLinks": false
+  },
+  {
+    "url": "https://www.metronaut.de/feed/",
+    "outlet": "Metronaut",
+    "delicateURLs": false,
+    "redirectLinks": false
+  },
+  {
+    "url": "http://www.bento.de/rss/feed.rss",
+    "outlet": "Bento",
+    "delicateURLs": false,
+    "redirectLinks": false
+  },
+  {
+    "url": "https://ze.tt/feed/",
+    "outlet": "Bento",
+    "delicateURLs": false,
+    "redirectLinks": false
+  },
+  {
+    "url": "http://www.prignitzer.de/rss",
+    "outlet": "Der Prignitzer",
+    "delicateURLs": false,
+    "redirectLinks": false
+  },
+  {
+    "url": "http://www.nnn.de/rss",
+    "outlet": "Norddeutsche Neuste Nachrichten",
+    "delicateURLs": false,
+    "redirectLinks": false
+  },
+  {
+    "url": "http://www.ostsee-zeitung.de/rss/feed/oz_mvaktuell",
+    "outlet": "Ostsee Zeitung",
+    "delicateURLs": false,
+    "redirectLinks": false
+  },
+  {
+    "url": "http://www.ostsee-zeitung.de/rss/feed/oz_politik",
+    "outlet": "Ostsee Zeitung",
+    "delicateURLs": false,
+    "redirectLinks": false
+  },
+  {
+    "url": "http://www.ostsee-zeitung.de/rss/feed/oz_wirtschaft",
+    "outlet": "Ostsee Zeitung",
+    "delicateURLs": false,
+    "redirectLinks": false
+  },
+  {
+    "url": "http://www.ostsee-zeitung.de/rss/feed/oz_kultur",
+    "outlet": "Ostsee Zeitung",
+    "delicateURLs": false,
+    "redirectLinks": false
+  },
+  {
+    "url":
+      "https://www.volksstimme.de/section/rss&Profile=1123&UseProfile=1&Title=Deutschland&ParagraphCount=99",
+    "outlet": "Volksstimme",
+    "delicateURLs": false,
+    "redirectLinks": false
+  },
+  {
+    "url":
+      "https://www.volksstimme.de/section/rss&Profile=1124&UseProfile=1&Title=Vermischtes&ParagraphCount=99",
+    "outlet": "Volksstimme",
+    "delicateURLs": false,
+    "redirectLinks": false
+  },
+  {
+    "url":
+      "https://www.volksstimme.de/section/rss&Profile=1125&UseProfile=1&Title=Wirtschaft&ParagraphCount=99",
+    "outlet": "Volksstimme",
+    "delicateURLs": false,
+    "redirectLinks": false
+  },
+  {
+    "url":
+      "https://www.volksstimme.de/section/rss&Profile=1126&UseProfile=1&Title=Politik&ParagraphCount=99",
+    "outlet": "Volksstimme",
+    "delicateURLs": false,
+    "redirectLinks": false
+  },
+  {
+    "url":
+      "https://www.volksstimme.de/section/rss&Profile=1127&UseProfile=1&Title=Ausland&ParagraphCount=99",
+    "outlet": "Volksstimme",
+    "delicateURLs": false,
+    "redirectLinks": false
+  },
+  {
+    "url":
+      "https://www.volksstimme.de/section/rss&Profile=1091&UseProfile=1&Title=Kultur&ParagraphCount=99",
+    "outlet": "Volksstimme",
+    "delicateURLs": false,
+    "redirectLinks": false
+  },
+  {
+    "url":
+      "https://www.volksstimme.de/section/rss&Profile=1130&UseProfile=1&Title=Ratgeber&ParagraphCount=99",
+    "outlet": "Volksstimme",
+    "delicateURLs": false,
+    "redirectLinks": false
+  },
+  {
+    "url":
+      "https://www.volksstimme.de/section/rss&Profile=1050&UseProfile=1&Title=Volksstimme%20Campus&ParagraphCount=99",
+    "outlet": "Volksstimme",
+    "delicateURLs": false,
+    "redirectLinks": false
+  },
+  {
+    "url": "http://www.mz-web.de/feed/yahoo.rss",
+    "outlet": "Mitteldeutsche Zeitung",
+    "delicateURLs": false,
+    "redirectLinks": false
+  },
+  {
+    "url": "http://www.lvz.de/rss/feed/lvz_nachrichten",
+    "outlet": "Leipziger Volkszeitung",
+    "delicateURLs": false,
+    "redirectLinks": false
+  },
+  {
+    "url": "http://www.dnn.de/rss/feed/dnn_nachrichten",
+    "outlet": "Dresdner Neuste Nachrichten",
+    "delicateURLs": false,
+    "redirectLinks": false
+  },
+  {
+    "url": "https://www.jungewelt.de/feeds/newsticker.rss",
+    "outlet": "Junge Welt",
+    "delicateURLs": false,
+    "redirectLinks": false
+  },
+  {
+    "url": "https://www.neues-deutschland.de/rss/aktuell.php",
+    "outlet": "Neues Deutschland",
+    "delicateURLs": false,
+    "redirectLinks": false
+  },
+  {
+    "url": "https://meedia.de/feed/",
+    "outlet": "Meedia",
+    "delicateURLs": false,
+    "redirectLinks": false
+  },
+  {
+    "url": "https://rss.golem.de/rss.php?feed=RSS2.0",
+    "outlet": "Golem",
     "delicateURLs": false,
     "redirectLinks": false
   },
