@@ -358,6 +358,54 @@
     "redirectLinks": false
   },
   {
+    "url": "http://www.deutschlandfunk.de/die-nachrichten.353.de.rss",
+    "outlet": "Deutschlandfunk",
+    "delicateURLs": false,
+    "redirectLinks": false
+  },
+  {
+    "url": "https://www.n-tv.de/rss",
+    "outlet": "N-TV",
+    "delicateURLs": false,
+    "redirectLinks": false
+  },
+  {
+    "url": "https://www.kreiszeitung.de/rssfeed.rdf",
+    "outlet": "Kreiszeitung",
+    "delicateURLs": false,
+    "redirectLinks": false
+  },
+  {
+    "url": "https://fragdenstaat.de/blog/feed/",
+    "outlet": "FragDenStaat-Blog",
+    "delicateURLs": false,
+    "redirectLinks": false
+  },
+  {
+    "url": "https://www.t-online.de/themen/rss/",
+    "outlet": "T-Online",
+    "delicateURLs": false,
+    "redirectLinks": false
+  },
+  {
+    "url": "https://www.wiwo.de/contentexport/feed/rss/schlagzeilen",
+    "outlet": "Wirtschaftswoche",
+    "delicateURLs": false,
+    "redirectLinks": false
+  },
+  {
+    "url": "http://www.waz-online.de/rss/feed/waz_schlagzeilen",
+    "outlet": "WAZ",
+    "delicateURLs": false,
+    "redirectLinks": false
+  },
+  {
+    "url": "http://www.waz-online.de/rss/feed/az_schlagzeilenn",
+    "outlet": "Aller-Zeitung",
+    "delicateURLs": false,
+    "redirectLinks": false
+  },
+  {
     "url":
       "https://www.bild.de/rssfeeds/vw-alles/vw-alles-26970192,dzbildplus=true,sort=1,teaserbildmobil=false,view=rss2,wtmc=ob.feed.bild.xml",
     "outlet": "Bild",
