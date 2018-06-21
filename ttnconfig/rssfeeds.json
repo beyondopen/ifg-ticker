@@ -1,0 +1,135 @@
+[
+  {
+    "url": "www.heise.de/newsticker/heise-atom.xml",
+    "outlet": "Heise Online",
+    "delicateURLs": false,
+    "redirectLinks": false
+  },
+  {
+    "url": "https://www.heise.de/tp/news-atom.xml",
+    "outlet": "Telepolis",
+    "delicateURLs": false,
+    "redirectLinks": false
+  },
+  {
+    "url": "https://www.freitag.de/@@RSS",
+    "outlet": "Der Freitag",
+    "delicateURLs": false,
+    "redirectLinks": false
+  },
+  {
+    "url": "https://www.freitag.de/community/neu/@@RSS",
+    "outlet": "Der Freitag Community",
+    "delicateURLs": false,
+    "redirectLinks": false
+  },
+  {
+    "url": "http://newsfeed.zeit.de/all",
+    "outlet": "Zeit Online",
+    "delicateURLs": false,
+    "redirectLinks": false
+  },
+  {
+    "url": "https://netzpolitik.org/feed/",
+    "outlet": "Netzpolitik.org",
+    "delicateURLs": false,
+    "redirectLinks": false
+  },
+  {
+    "url": "http://www.spiegel.de/schlagzeilen/index.rss",
+    "outlet": "SPON",
+    "delicateURLs": false,
+    "redirectLinks": false
+  },
+  {
+    "url": "http://www.tagesspiegel.de/contentexport/feed/home",
+    "outlet": "Tagesspiegel",
+    "delicateURLs": false,
+    "redirectLinks": false
+  },
+  {
+    "url": "https://www.tagesspiegel.de/contentexport/feed/politik",
+    "outlet": "Tagesspiegel",
+    "delicateURLs": false,
+    "redirectLinks": false
+  },
+  {
+    "url": "https://www.stern.de/feed/standard/alle-nachrichten/",
+    "outlet": "Stern",
+    "delicateURLs": false,
+    "redirectLinks": false
+  },
+  {
+    "url": "https://correctiv.org/artikel/feeds/",
+    "outlet": "Correctiv",
+    "delicateURLs": false,
+    "redirectLinks": false
+  },
+  {
+    "url": "http://www.faz.net/rss/aktuell/politik/",
+    "outlet": "FAZ",
+    "delicateURLs": false,
+    "redirectLinks": false
+  },
+  {
+    "url": "http://www.faz.net/rss/aktuell/",
+    "outlet": "FAZ",
+    "delicateURLs": false,
+    "redirectLinks": false
+  },
+  {
+    "url": "http://www.tagesschau.de/xml/rss2/",
+    "outlet": "Tagesschau",
+    "delicateURLs": false,
+    "redirectLinks": false
+  },
+  {
+    "url": "https://correctiv.org/artikel/feeds/",
+    "outlet": "Correctiv",
+    "delicateURLs": false,
+    "redirectLinks": false
+  },
+  {
+    "url": "https://www.welt.de/feeds/latest.rss",
+    "outlet": "Welt",
+    "delicateURLs": false,
+    "redirectLinks": false
+  },
+  {
+    "url": "https://www.berliner-zeitung.de/blueprint/servlet/xml/berliner-zeitung/23701214-asYahooFeed.xml",
+    "outlet": "Berliner Zeitung",
+    "delicateURLs": false,
+    "redirectLinks": false
+  },
+  {
+    "url": "http://www.taz.de/Politik/!p4615;rss/",
+    "outlet": "TAZ",
+    "delicateURLs": false,
+    "redirectLinks": false
+  },
+  {
+    "url": "http://taz.de/!p4608;rss/",
+    "outlet": "TAZ",
+    "delicateURLs": false,
+    "redirectLinks": false
+  },
+  {
+    "url": "http://taz.de/!p4608;rss/",
+    "outlet": "RP Online",
+    "delicateURLs": false,
+    "redirectLinks": false
+  },
+  {
+    "url": "https://rp-online.de/politik/feed.rss",
+    "outlet": "RP Online",
+    "delicateURLs": false,
+    "redirectLinks": false
+  },
+  {
+    "url":
+      "https://www.bild.de/rssfeeds/vw-alles/vw-alles-26970192,dzbildplus=true,sort=1,teaserbildmobil=false,view=rss2,wtmc=ob.feed.bild.xml",
+    "outlet": "Bild",
+    "delicateURLs": false,
+    "redirectLinks": false
+  }
+]
