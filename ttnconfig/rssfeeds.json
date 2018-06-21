@@ -96,7 +96,8 @@
     "redirectLinks": false
   },
   {
-    "url": "https://www.berliner-zeitung.de/blueprint/servlet/xml/berliner-zeitung/23701214-asYahooFeed.xml",
+    "url":
+      "https://www.berliner-zeitung.de/blueprint/servlet/xml/berliner-zeitung/23701214-asYahooFeed.xml",
     "outlet": "Berliner Zeitung",
     "delicateURLs": false,
     "redirectLinks": false
@@ -114,7 +115,25 @@
     "redirectLinks": false
   },
   {
-    "url": "http://taz.de/!p4608;rss/",
+    "url": "https://rp-online.de/feed.rss",
+    "outlet": "RP Online",
+    "delicateURLs": false,
+    "redirectLinks": false
+  },
+  {
+    "url": "https://rp-online.de/wirtschaft/feed.rss",
+    "outlet": "RP Online",
+    "delicateURLs": false,
+    "redirectLinks": false
+  },
+  {
+    "url": "https://rp-online.de/panorama/feed.rss",
+    "outlet": "RP Online",
+    "delicateURLs": false,
+    "redirectLinks": false
+  },
+  {
+    "url": "https://rp-online.de/digitales/feed.rss",
     "outlet": "RP Online",
     "delicateURLs": false,
     "redirectLinks": false
