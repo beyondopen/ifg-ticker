@@ -146,6 +146,13 @@
   },
   {
     "url":
+      "http://rss.sueddeutsche.de/app/service/rss/alles/index.rss?output=rss",
+    "outlet": "Süddeutsche Zeitung",
+    "delicateURLs": false,
+    "redirectLinks": false
+  },
+  {
+    "url":
       "https://www.bild.de/rssfeeds/vw-alles/vw-alles-26970192,dzbildplus=true,sort=1,teaserbildmobil=false,view=rss2,wtmc=ob.feed.bild.xml",
     "outlet": "Bild",
     "delicateURLs": false,
