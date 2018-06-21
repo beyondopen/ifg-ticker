@@ -152,6 +152,54 @@
     "redirectLinks": false
   },
   {
+    "url": "https://www.nzz.ch/startseite.rss",
+    "outlet": "Neue Züricher Zeitung",
+    "delicateURLs": false,
+    "redirectLinks": false
+  },
+  {
+    "url": "http://www.sz-online.de/Sachsen.rss",
+    "outlet": "Sächische Zeitung",
+    "delicateURLs": false,
+    "redirectLinks": false
+  },
+  {
+    "url": "http://www.sz-online.de/Multimedia.rss",
+    "outlet": "Sächische Zeitung",
+    "delicateURLs": false,
+    "redirectLinks": false
+  },
+  {
+    "url": "http://www.sz-online.de/Kultur.rss",
+    "outlet": "Sächische Zeitung",
+    "delicateURLs": false,
+    "redirectLinks": false
+  },
+  {
+    "url": "http://www.sz-online.de/Panorama.rss",
+    "outlet": "Sächische Zeitung",
+    "delicateURLs": false,
+    "redirectLinks": false
+  },
+  {
+    "url": "http://www.sz-online.de/Wissen.rss",
+    "outlet": "Sächische Zeitung",
+    "delicateURLs": false,
+    "redirectLinks": false
+  },
+  {
+    "url": "http://www.sz-online.de/Wirtschaft.rss",
+    "outlet": "Sächische Zeitung",
+    "delicateURLs": false,
+    "redirectLinks": false
+  },
+  {
+    "url": "http://www.sz-online.de/Politik.rss",
+    "outlet": "Sächische Zeitung",
+    "delicateURLs": false,
+    "redirectLinks": false
+  },
+  {
     "url":
       "https://www.bild.de/rssfeeds/vw-alles/vw-alles-26970192,dzbildplus=true,sort=1,teaserbildmobil=false,view=rss2,wtmc=ob.feed.bild.xml",
     "outlet": "Bild",
