@@ -424,6 +424,84 @@
     "redirectLinks": false
   },
   {
+    "url": "https://www.presseportal.de/rss/politik.rss2",
+    "outlet": "Presseportal.de",
+    "delicateURLs": false,
+    "redirectLinks": false
+  },
+  {
+    "url": "https://www.presseportal.de/rss/medien-kultur.rss2",
+    "outlet": "Presseportal.de",
+    "delicateURLs": false,
+    "redirectLinks": false
+  },
+  {
+    "url": "https://www.presseportal.de/rss/wirtschaft.rss2",
+    "outlet": "Presseportal.de",
+    "delicateURLs": false,
+    "redirectLinks": false
+  },
+  {
+    "url": "https://www.presseportal.de/rss/soziales.rss2",
+    "outlet": "Presseportal.de",
+    "delicateURLs": false,
+    "redirectLinks": false
+  },
+  {
+    "url": "https://www.presseportal.de/rss/umwelt.rss2",
+    "outlet": "Presseportal.de",
+    "delicateURLs": false,
+    "redirectLinks": false
+  },
+  {
+    "url": "https://www.presseportal.de/rss/wissen-bildung.rss2",
+    "outlet": "Presseportal.de",
+    "delicateURLs": false,
+    "redirectLinks": false
+  },
+  {
+    "url": "https://www.presseportal.de/rss/netzwelt.rss2",
+    "outlet": "Presseportal.de",
+    "delicateURLs": false,
+    "redirectLinks": false
+  },
+  {
+    "url": "https://www.presseportal.de/rss/handel.rss2",
+    "outlet": "Presseportal.de",
+    "delicateURLs": false,
+    "redirectLinks": false
+  },
+  {
+    "url": "https://www.presseportal.de/rss/finanzen.rss2",
+    "outlet": "Presseportal.de",
+    "delicateURLs": false,
+    "redirectLinks": false
+  },
+  {
+    "url": "https://www.presseportal.de/rss/bau-immobilien.rss2",
+    "outlet": "Presseportal.de",
+    "delicateURLs": false,
+    "redirectLinks": false
+  },
+  {
+    "url": "https://www.presseportal.de/rss/panorama.rss2",
+    "outlet": "Presseportal.de",
+    "delicateURLs": false,
+    "redirectLinks": false
+  },
+  {
+    "url": "https://www.presseportal.de/rss/auto-verkehr.rss2",
+    "outlet": "Presseportal.de",
+    "delicateURLs": false,
+    "redirectLinks": false
+  },
+  {
+    "url": "https://www.presseportal.de/rss/gesundheit-medizin.rss2",
+    "outlet": "Presseportal.de",
+    "delicateURLs": false,
+    "redirectLinks": false
+  },
+  {
     "url":
       "https://www.bild.de/rssfeeds/vw-alles/vw-alles-26970192,dzbildplus=true,sort=1,teaserbildmobil=false,view=rss2,wtmc=ob.feed.bild.xml",
     "outlet": "Bild",
