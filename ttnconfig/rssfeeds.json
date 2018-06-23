@@ -231,7 +231,7 @@
   },
   {
     "url": "http://www.nnn.de/rss",
-    "outlet": "Norddeutsche Neuste Nachrichten",
+    "outlet": "Norddeutsche Neueste Nachrichten",
     "delicateURLs": false,
     "redirectLinks": false
   },
@@ -329,7 +329,7 @@
   },
   {
     "url": "http://www.dnn.de/rss/feed/dnn_nachrichten",
-    "outlet": "Dresdner Neuste Nachrichten",
+    "outlet": "Dresdner Neueste Nachrichten",
     "delicateURLs": false,
     "redirectLinks": false
   },
