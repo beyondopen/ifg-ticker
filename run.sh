@@ -2,7 +2,7 @@
 set -e
 
 while : ; do
-  if pgrep -f "trackthenewsy" &>/dev/null; then
+  if pgrep -f "trackthenews" &>/dev/null; then
       echo "trackthenews is already running. exiting."
       exit
   else
