@@ -520,6 +520,30 @@
     "redirectLinks": false
   },
   {
+    "url": "http://www.journalist-magazin.de/feed/2",
+    "outlet": "journalist",
+    "delicateURLs": false,
+    "redirectLinks": false
+  },
+  {
+    "url": "http://www.journalist-magazin.de/taxonomy/term/1/all/feed",
+    "outlet": "journalist",
+    "delicateURLs": false,
+    "redirectLinks": false
+  },
+  {
+    "url": "http://www.journalist-magazin.de/taxonomy/term/31/all/feed",
+    "outlet": "journalist",
+    "delicateURLs": false,
+    "redirectLinks": false
+  },
+  {
+    "url": "http://www.journalist-magazin.de/taxonomy/term/2/all/feed",
+    "outlet": "journalist",
+    "delicateURLs": false,
+    "redirectLinks": false
+  },
+  {
     "url":
       "https://www.bild.de/rssfeeds/vw-alles/vw-alles-26970192,dzbildplus=true,sort=1,teaserbildmobil=false,view=rss2,wtmc=ob.feed.bild.xml",
     "outlet": "Bild",
