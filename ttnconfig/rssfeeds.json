@@ -550,6 +550,24 @@
     "redirectLinks": false
   },
   {
+    "url": "https://derstandard.at/?page=rss&ressort=Seite1",
+    "outlet": "derStandard.at",
+    "delicateURLs": false,
+    "redirectLinks": false
+  },
+  {
+    "url": "http://derstandard.at/?page=rss&ressort=Inland",
+    "outlet": "derStandard.at",
+    "delicateURLs": false,
+    "redirectLinks": false
+  },
+  {
+    "url": "http://derstandard.at/?page=rss&ressort=International",
+    "outlet": "derStandard.at",
+    "delicateURLs": false,
+    "redirectLinks": false
+  },
+  {
     "url":
       "https://www.bild.de/rssfeeds/vw-alles/vw-alles-26970192,dzbildplus=true,sort=1,teaserbildmobil=false,view=rss2,wtmc=ob.feed.bild.xml",
     "outlet": "Bild",
