@@ -84,12 +84,6 @@
     "redirectLinks": false
   },
   {
-    "url": "https://correctiv.org/artikel/feeds/",
-    "outlet": "Correctiv",
-    "delicateURLs": false,
-    "redirectLinks": false
-  },
-  {
     "url": "https://www.welt.de/feeds/latest.rss",
     "outlet": "Welt",
     "delicateURLs": false,
