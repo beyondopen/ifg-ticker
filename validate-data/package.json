@@ -1,0 +1,12 @@
+{
+  "name": "validate-data",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "ava index.js"
+  },
+  "dependencies": {
+    "ava": "^0.25.0"
+  }
+}

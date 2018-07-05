@@ -1,0 +1,7 @@
+language: node_js
+node_js:
+  - "node"
+before_install:
+  - cd validate-data
+notifications:
+  email: false

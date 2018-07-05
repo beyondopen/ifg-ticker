@@ -1,2 +1,3 @@
 ttnconfig/config.yaml
 *.db
+validate-data/node_modules
