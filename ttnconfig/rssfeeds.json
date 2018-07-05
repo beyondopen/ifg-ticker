@@ -724,6 +724,12 @@
     "redirectLinks": false
   },
   {
+    "url": "http://www.kyffhaeuser-nachrichten.de/_rss/news_rss_iso.php",
+    "outlet": "Kyffhäuser Nachrichten",
+    "delicateURLs": false,
+    "redirectLinks": false
+  },
+  {
     "url":
       "https://www.bild.de/rssfeeds/vw-alles/vw-alles-26970192,dzbildplus=true,sort=1,teaserbildmobil=false,view=rss2,wtmc=ob.feed.bild.xml",
     "outlet": "Bild",
