@@ -115,6 +115,36 @@
     "redirectLinks": false
   },
   {
+    "url": "http://www.taz.de/Berlin/!p4649;rss/",
+    "outlet": "TAZ",
+    "delicateURLs": false,
+    "redirectLinks": false
+  },
+  {
+    "url": "http://www.taz.de/Gesellschaft/!p4611;rss/",
+    "outlet": "TAZ",
+    "delicateURLs": false,
+    "redirectLinks": false
+  },
+  {
+    "url": "http://www.taz.de/Oeko/!p4610;rss/",
+    "outlet": "TAZ",
+    "delicateURLs": false,
+    "redirectLinks": false
+  },
+  {
+    "url": "http://www.taz.de/Kultur/!p4639;rss/",
+    "outlet": "TAZ",
+    "delicateURLs": false,
+    "redirectLinks": false
+  },
+  {
+    "url": "http://www.taz.de/Nord/!p4650;rss/",
+    "outlet": "TAZ",
+    "delicateURLs": false,
+    "redirectLinks": false
+  },
+  {
     "url": "https://rp-online.de/feed.rss",
     "outlet": "RP Online",
     "delicateURLs": false,
