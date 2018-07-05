@@ -2,7 +2,7 @@
 
 [English below](#english)
 
-Wir verlinken auf unserem Twitter-Account [@IFG_IFG_IFG](https://twitter.com/IFG_IFG_IFG) automatisiert Nachrichten, die sich auf
+Wir verlinken auf unserem Twitter-Account [@IFG_Ticker](https://twitter.com/IFG_Ticker) automatisiert Nachrichten, die sich auf
 [Informationsfreiheits](https://de.wikipedia.org/wiki/Informationsfreiheitsgesetz)- bzw. Tranzparenzgesetze beziehen.
 
 Das US-amerikanische Vorbild ist [FOIA Feed](https://twitter.com/FOIAFeed) der [Feedom of Press Foundation](https://freedom.press/). Diese stellt den Code als [TrackTheNews](https://github.com/freedomofpress/trackthenews) Open Source bereit.
