@@ -670,6 +670,60 @@
     "redirectLinks": false
   },
   {
+    "url": "https://www.freiepresse.de/rss/rss_chemnitz.php",
+    "outlet": "Freie Presse",
+    "delicateURLs": false,
+    "redirectLinks": false
+  },
+  {
+    "url": "https://www.freiepresse.de/rss/rss_erzgebirge.php",
+    "outlet": "Freie Presse",
+    "delicateURLs": false,
+    "redirectLinks": false
+  },
+  {
+    "url": "https://www.freiepresse.de/rss/rss_mittelsachsen.php",
+    "outlet": "Freie Presse",
+    "delicateURLs": false,
+    "redirectLinks": false
+  },
+  {
+    "url": "https://www.freiepresse.de/rss/rss_vogtland.php",
+    "outlet": "Freie Presse",
+    "delicateURLs": false,
+    "redirectLinks": false
+  },
+  {
+    "url": "https://www.freiepresse.de/rss/rss_zwickau.php",
+    "outlet": "Freie Presse",
+    "delicateURLs": false,
+    "redirectLinks": false
+  },
+  {
+    "url": "https://www.freiepresse.de/rss/rss_politik.php",
+    "outlet": "Freie Presse",
+    "delicateURLs": false,
+    "redirectLinks": false
+  },
+  {
+    "url": "https://www.freiepresse.de/rss/rss_wirtschaft.php",
+    "outlet": "Freie Presse",
+    "delicateURLs": false,
+    "redirectLinks": false
+  },
+  {
+    "url": "https://www.freiepresse.de/rss/rss_kultur.php",
+    "outlet": "Freie Presse",
+    "delicateURLs": false,
+    "redirectLinks": false
+  },
+  {
+    "url": "https://www.freiepresse.de/rss/rss_sport.php",
+    "outlet": "Freie Presse",
+    "delicateURLs": false,
+    "redirectLinks": false
+  },
+  {
     "url":
       "https://www.bild.de/rssfeeds/vw-alles/vw-alles-26970192,dzbildplus=true,sort=1,teaserbildmobil=false,view=rss2,wtmc=ob.feed.bild.xml",
     "outlet": "Bild",
