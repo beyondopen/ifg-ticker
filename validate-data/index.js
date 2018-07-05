@@ -7,17 +7,17 @@ test("urls are unique in rssfeeds.json", t => {
   const urls = rssfeeds.map(x => x.url);
 
   const set = new Set();
-  const duplicates = [];
+  const duplicates = new Set();
 
   urls.forEach(x => {
     if (set.has(x)) {
-      duplicates.push(x);
+      duplicates.add(x);
     }
     set.add(x);
   });
 
   t.true(
     duplicates.size === 0,
-    "The following URL is duplicated: " + duplicates.join(" ")
+    "The following URLs are duplicated: " + Array.from(duplicates).join(" ")
   );
 });
