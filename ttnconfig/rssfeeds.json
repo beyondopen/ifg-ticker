@@ -592,6 +592,84 @@
     "redirectLinks": false
   },
   {
+    "url": "https://www.abgeordnetenwatch.de/rss/blog.xml",
+    "outlet": "Abgeordnetenwatch-Blog",
+    "delicateURLs": false,
+    "redirectLinks": false
+  },
+  {
+    "url": "https://www.juedische-allgemeine.de/rss",
+    "outlet": "Jüdische Allgemeine",
+    "delicateURLs": false,
+    "redirectLinks": false
+  },
+  {
+    "url": "https://www.evangelisch.de/rss/inhalte.rss",
+    "outlet": "evangelisch.de",
+    "delicateURLs": false,
+    "redirectLinks": false
+  },
+  {
+    "url": "https://www.queer.de/rss/newsticker2.0.komplett.xml",
+    "outlet": "queer.de",
+    "delicateURLs": false,
+    "redirectLinks": false
+  },
+  {
+    "url": "https://www.die-tagespost.de/storage/rss/rss/politik.xml",
+    "outlet": "Die Tagespost (Katholische Zeitung)",
+    "delicateURLs": false,
+    "redirectLinks": false
+  },
+  {
+    "url": "https://blog.campact.de/feed/",
+    "outlet": "Campact-Blog",
+    "delicateURLs": false,
+    "redirectLinks": false
+  },
+  {
+    "url": "https://rss.focus.de/fol/XML/rss_folnews.xml",
+    "outlet": "FOCUS-Online",
+    "delicateURLs": false,
+    "redirectLinks": false
+  },
+  {
+    "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
+    "outlet": "Handelsblatt",
+    "delicateURLs": false,
+    "redirectLinks": false
+  },
+  {
+    "url": "https://www.handelsblatt.com/contentexport/feed/politik",
+    "outlet": "Handelsblatt",
+    "delicateURLs": false,
+    "redirectLinks": false
+  },
+  {
+    "url": "https://www.handelsblatt.com/contentexport/feed/top-themen",
+    "outlet": "Handelsblatt",
+    "delicateURLs": false,
+    "redirectLinks": false
+  },
+  {
+    "url": "https://www.huffingtonpost.de/feeds/index.xml",
+    "outlet": "Huffington Post",
+    "delicateURLs": false,
+    "redirectLinks": false
+  },
+  {
+    "url": "http://www.fr.de/?_XML=rss",
+    "outlet": "Frankfurter Rundschau",
+    "delicateURLs": false,
+    "redirectLinks": false
+  },
+  {
+    "url": "https://www.fr.de/politik/?_XML=rss",
+    "outlet": "Frankfurter Rundschau",
+    "delicateURLs": false,
+    "redirectLinks": false
+  },
+  {
     "url":
       "https://www.bild.de/rssfeeds/vw-alles/vw-alles-26970192,dzbildplus=true,sort=1,teaserbildmobil=false,view=rss2,wtmc=ob.feed.bild.xml",
     "outlet": "Bild",
