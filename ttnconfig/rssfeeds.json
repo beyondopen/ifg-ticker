@@ -1,739 +1,500 @@
 [
   {
     "url": "www.heise.de/newsticker/heise-atom.xml",
-    "outlet": "Heise Online",
-    "delicateURLs": false,
-    "redirectLinks": false
+    "outlet": "Heise Online"
   },
   {
     "url": "https://www.heise.de/tp/news-atom.xml",
-    "outlet": "Telepolis",
-    "delicateURLs": false,
-    "redirectLinks": false
+    "outlet": "Telepolis"
   },
   {
     "url": "http://feeds.feedburner.com/Bildblog",
-    "outlet": "BILDblog",
-    "delicateURLs": false,
-    "redirectLinks": false
+    "outlet": "BILDblog"
   },
   {
     "url": "https://www.freitag.de/@@RSS",
-    "outlet": "Der Freitag",
-    "delicateURLs": false,
-    "redirectLinks": false
+    "outlet": "Der Freitag"
   },
   {
     "url": "https://www.freitag.de/community/neu/@@RSS",
-    "outlet": "Der Freitag Community",
-    "delicateURLs": false,
-    "redirectLinks": false
+    "outlet": "Der Freitag Community"
   },
   {
     "url": "http://newsfeed.zeit.de/all",
-    "outlet": "Zeit Online",
-    "delicateURLs": false,
-    "redirectLinks": false
+    "outlet": "Zeit Online"
   },
   {
     "url": "https://netzpolitik.org/feed/",
-    "outlet": "Netzpolitik.org",
-    "delicateURLs": false,
-    "redirectLinks": false
+    "outlet": "Netzpolitik.org"
   },
   {
     "url": "http://www.spiegel.de/schlagzeilen/index.rss",
-    "outlet": "SPON",
-    "delicateURLs": false,
-    "redirectLinks": false
+    "outlet": "SPON"
   },
   {
     "url": "http://www.tagesspiegel.de/contentexport/feed/home",
-    "outlet": "Tagesspiegel",
-    "delicateURLs": false,
-    "redirectLinks": false
+    "outlet": "Tagesspiegel"
   },
   {
     "url": "https://www.tagesspiegel.de/contentexport/feed/politik",
-    "outlet": "Tagesspiegel",
-    "delicateURLs": false,
-    "redirectLinks": false
+    "outlet": "Tagesspiegel"
   },
   {
     "url": "https://www.stern.de/feed/standard/alle-nachrichten/",
-    "outlet": "Stern",
-    "delicateURLs": false,
-    "redirectLinks": false
+    "outlet": "Stern"
   },
   {
     "url": "https://correctiv.org/artikel/feeds/",
-    "outlet": "Correctiv",
-    "delicateURLs": false,
-    "redirectLinks": false
+    "outlet": "Correctiv"
   },
   {
     "url": "http://www.faz.net/rss/aktuell/politik/",
-    "outlet": "FAZ",
-    "delicateURLs": false,
-    "redirectLinks": false
+    "outlet": "FAZ"
   },
   {
     "url": "http://www.faz.net/rss/aktuell/",
-    "outlet": "FAZ",
-    "delicateURLs": false,
-    "redirectLinks": false
+    "outlet": "FAZ"
   },
   {
     "url": "http://www.tagesschau.de/xml/rss2/",
-    "outlet": "Tagesschau",
-    "delicateURLs": false,
-    "redirectLinks": false
+    "outlet": "Tagesschau"
   },
   {
     "url": "https://www.welt.de/feeds/latest.rss",
-    "outlet": "Welt",
-    "delicateURLs": false,
-    "redirectLinks": false
+    "outlet": "Welt"
   },
   {
     "url":
       "https://www.berliner-zeitung.de/blueprint/servlet/xml/berliner-zeitung/23701214-asYahooFeed.xml",
-    "outlet": "Berliner Zeitung",
-    "delicateURLs": false,
-    "redirectLinks": false
+    "outlet": "Berliner Zeitung"
   },
   {
     "url": "http://www.taz.de/Politik/!p4615;rss/",
-    "outlet": "TAZ",
-    "delicateURLs": false,
-    "redirectLinks": false
+    "outlet": "TAZ"
   },
   {
     "url": "http://taz.de/!p4608;rss/",
-    "outlet": "TAZ",
-    "delicateURLs": false,
-    "redirectLinks": false
+    "outlet": "TAZ"
   },
   {
     "url": "http://www.taz.de/Berlin/!p4649;rss/",
-    "outlet": "TAZ",
-    "delicateURLs": false,
-    "redirectLinks": false
+    "outlet": "TAZ"
   },
   {
     "url": "http://www.taz.de/Gesellschaft/!p4611;rss/",
-    "outlet": "TAZ",
-    "delicateURLs": false,
-    "redirectLinks": false
+    "outlet": "TAZ"
   },
   {
     "url": "http://www.taz.de/Oeko/!p4610;rss/",
-    "outlet": "TAZ",
-    "delicateURLs": false,
-    "redirectLinks": false
+    "outlet": "TAZ"
   },
   {
     "url": "http://www.taz.de/Kultur/!p4639;rss/",
-    "outlet": "TAZ",
-    "delicateURLs": false,
-    "redirectLinks": false
+    "outlet": "TAZ"
   },
   {
     "url": "http://www.taz.de/Nord/!p4650;rss/",
-    "outlet": "TAZ",
-    "delicateURLs": false,
-    "redirectLinks": false
+    "outlet": "TAZ"
   },
   {
     "url": "https://rp-online.de/feed.rss",
-    "outlet": "RP Online",
-    "delicateURLs": false,
-    "redirectLinks": false
+    "outlet": "RP Online"
   },
   {
     "url": "https://rp-online.de/wirtschaft/feed.rss",
-    "outlet": "RP Online",
-    "delicateURLs": false,
-    "redirectLinks": false
+    "outlet": "RP Online"
   },
   {
     "url": "https://rp-online.de/panorama/feed.rss",
-    "outlet": "RP Online",
-    "delicateURLs": false,
-    "redirectLinks": false
+    "outlet": "RP Online"
   },
   {
     "url": "https://rp-online.de/digitales/feed.rss",
-    "outlet": "RP Online",
-    "delicateURLs": false,
-    "redirectLinks": false
+    "outlet": "RP Online"
   },
   {
     "url": "https://rp-online.de/politik/feed.rss",
-    "outlet": "RP Online",
-    "delicateURLs": false,
-    "redirectLinks": false
+    "outlet": "RP Online"
   },
   {
     "url":
       "http://rss.sueddeutsche.de/app/service/rss/alles/index.rss?output=rss",
-    "outlet": "Süddeutsche Zeitung",
-    "delicateURLs": false,
-    "redirectLinks": false
+    "outlet": "Süddeutsche Zeitung"
   },
   {
     "url": "https://www.nzz.ch/startseite.rss",
-    "outlet": "Neue Züricher Zeitung",
-    "delicateURLs": false,
-    "redirectLinks": false
+    "outlet": "Neue Züricher Zeitung"
   },
   {
     "url": "http://www.sz-online.de/Sachsen.rss",
-    "outlet": "Sächsische Zeitung",
-    "delicateURLs": false,
-    "redirectLinks": false
+    "outlet": "Sächsische Zeitung"
   },
   {
     "url": "http://www.sz-online.de/Multimedia.rss",
-    "outlet": "Sächsische Zeitung",
-    "delicateURLs": false,
-    "redirectLinks": false
+    "outlet": "Sächsische Zeitung"
   },
   {
     "url": "http://www.sz-online.de/Kultur.rss",
-    "outlet": "Sächsische Zeitung",
-    "delicateURLs": false,
-    "redirectLinks": false
+    "outlet": "Sächsische Zeitung"
   },
   {
     "url": "http://www.sz-online.de/Panorama.rss",
-    "outlet": "Sächsische Zeitung",
-    "delicateURLs": false,
-    "redirectLinks": false
+    "outlet": "Sächsische Zeitung"
   },
   {
     "url": "http://www.sz-online.de/Wissen.rss",
-    "outlet": "Sächsische Zeitung",
-    "delicateURLs": false,
-    "redirectLinks": false
+    "outlet": "Sächsische Zeitung"
   },
   {
     "url": "http://www.sz-online.de/Wirtschaft.rss",
-    "outlet": "Sächsische Zeitung",
-    "delicateURLs": false,
-    "redirectLinks": false
+    "outlet": "Sächsische Zeitung"
   },
   {
     "url": "http://www.sz-online.de/Politik.rss",
-    "outlet": "Sächsische Zeitung",
-    "delicateURLs": false,
-    "redirectLinks": false
+    "outlet": "Sächsische Zeitung"
   },
   {
     "url": "http://www.svz.de/rss",
-    "outlet": "Schweriner Volkszeitung",
-    "delicateURLs": false,
-    "redirectLinks": false
+    "outlet": "Schweriner Volkszeitung"
   },
   {
     "url": "https://www.metronaut.de/feed/",
-    "outlet": "Metronaut",
-    "delicateURLs": false,
-    "redirectLinks": false
+    "outlet": "Metronaut"
   },
   {
     "url": "http://www.bento.de/rss/feed.rss",
-    "outlet": "Bento",
-    "delicateURLs": false,
-    "redirectLinks": false
+    "outlet": "Bento"
   },
   {
     "url": "https://ze.tt/feed/",
-    "outlet": "Bento",
-    "delicateURLs": false,
-    "redirectLinks": false
+    "outlet": "Bento"
   },
   {
     "url": "http://www.prignitzer.de/rss",
-    "outlet": "Der Prignitzer",
-    "delicateURLs": false,
-    "redirectLinks": false
+    "outlet": "Der Prignitzer"
   },
   {
     "url": "http://www.nnn.de/rss",
-    "outlet": "Norddeutsche Neueste Nachrichten",
-    "delicateURLs": false,
-    "redirectLinks": false
+    "outlet": "Norddeutsche Neueste Nachrichten"
   },
   {
     "url": "http://www.ostsee-zeitung.de/rss/feed/oz_mvaktuell",
-    "outlet": "Ostsee Zeitung",
-    "delicateURLs": false,
-    "redirectLinks": false
+    "outlet": "Ostsee Zeitung"
   },
   {
     "url": "http://www.ostsee-zeitung.de/rss/feed/oz_politik",
-    "outlet": "Ostsee Zeitung",
-    "delicateURLs": false,
-    "redirectLinks": false
+    "outlet": "Ostsee Zeitung"
   },
   {
     "url": "http://www.ostsee-zeitung.de/rss/feed/oz_wirtschaft",
-    "outlet": "Ostsee Zeitung",
-    "delicateURLs": false,
-    "redirectLinks": false
+    "outlet": "Ostsee Zeitung"
   },
   {
     "url": "http://www.ostsee-zeitung.de/rss/feed/oz_kultur",
-    "outlet": "Ostsee Zeitung",
-    "delicateURLs": false,
-    "redirectLinks": false
+    "outlet": "Ostsee Zeitung"
   },
   {
     "url":
       "https://www.volksstimme.de/section/rss&Profile=1123&UseProfile=1&Title=Deutschland&ParagraphCount=99",
-    "outlet": "Volksstimme",
-    "delicateURLs": false,
-    "redirectLinks": false
+    "outlet": "Volksstimme"
   },
   {
     "url":
       "https://www.volksstimme.de/section/rss&Profile=1124&UseProfile=1&Title=Vermischtes&ParagraphCount=99",
-    "outlet": "Volksstimme",
-    "delicateURLs": false,
-    "redirectLinks": false
+    "outlet": "Volksstimme"
   },
   {
     "url":
       "https://www.volksstimme.de/section/rss&Profile=1125&UseProfile=1&Title=Wirtschaft&ParagraphCount=99",
-    "outlet": "Volksstimme",
-    "delicateURLs": false,
-    "redirectLinks": false
+    "outlet": "Volksstimme"
   },
   {
     "url":
       "https://www.volksstimme.de/section/rss&Profile=1126&UseProfile=1&Title=Politik&ParagraphCount=99",
-    "outlet": "Volksstimme",
-    "delicateURLs": false,
-    "redirectLinks": false
+    "outlet": "Volksstimme"
   },
   {
     "url":
       "https://www.volksstimme.de/section/rss&Profile=1127&UseProfile=1&Title=Ausland&ParagraphCount=99",
-    "outlet": "Volksstimme",
-    "delicateURLs": false,
-    "redirectLinks": false
+    "outlet": "Volksstimme"
   },
   {
     "url":
       "https://www.volksstimme.de/section/rss&Profile=1091&UseProfile=1&Title=Kultur&ParagraphCount=99",
-    "outlet": "Volksstimme",
-    "delicateURLs": false,
-    "redirectLinks": false
+    "outlet": "Volksstimme"
   },
   {
     "url":
       "https://www.volksstimme.de/section/rss&Profile=1130&UseProfile=1&Title=Ratgeber&ParagraphCount=99",
-    "outlet": "Volksstimme",
-    "delicateURLs": false,
-    "redirectLinks": false
+    "outlet": "Volksstimme"
   },
   {
     "url":
       "https://www.volksstimme.de/section/rss&Profile=1050&UseProfile=1&Title=Volksstimme%20Campus&ParagraphCount=99",
-    "outlet": "Volksstimme",
-    "delicateURLs": false,
-    "redirectLinks": false
+    "outlet": "Volksstimme"
   },
   {
     "url": "http://www.mz-web.de/feed/yahoo.rss",
-    "outlet": "Mitteldeutsche Zeitung",
-    "delicateURLs": false,
-    "redirectLinks": false
+    "outlet": "Mitteldeutsche Zeitung"
   },
   {
     "url": "http://www.lvz.de/rss/feed/lvz_nachrichten",
-    "outlet": "Leipziger Volkszeitung",
-    "delicateURLs": false,
-    "redirectLinks": false
+    "outlet": "Leipziger Volkszeitung"
   },
   {
     "url": "http://www.dnn.de/rss/feed/dnn_nachrichten",
-    "outlet": "Dresdner Neueste Nachrichten",
-    "delicateURLs": false,
-    "redirectLinks": false
+    "outlet": "Dresdner Neueste Nachrichten"
   },
   {
     "url": "https://www.jungewelt.de/feeds/newsticker.rss",
-    "outlet": "Junge Welt",
-    "delicateURLs": false,
-    "redirectLinks": false
+    "outlet": "Junge Welt"
   },
   {
     "url": "https://www.neues-deutschland.de/rss/aktuell.php",
-    "outlet": "Neues Deutschland",
-    "delicateURLs": false,
-    "redirectLinks": false
+    "outlet": "Neues Deutschland"
   },
   {
     "url": "https://meedia.de/feed/",
-    "outlet": "Meedia",
-    "delicateURLs": false,
-    "redirectLinks": false
+    "outlet": "Meedia"
   },
   {
     "url": "https://rss.golem.de/rss.php?feed=RSS2.0",
-    "outlet": "Golem",
-    "delicateURLs": false,
-    "redirectLinks": false
+    "outlet": "Golem"
   },
   {
     "url": "http://www.deutschlandfunk.de/die-nachrichten.353.de.rss",
-    "outlet": "Deutschlandfunk",
-    "delicateURLs": false,
-    "redirectLinks": false
+    "outlet": "Deutschlandfunk"
   },
   {
     "url": "https://www.n-tv.de/rss",
-    "outlet": "N-TV",
-    "delicateURLs": false,
-    "redirectLinks": false
+    "outlet": "N-TV"
   },
   {
     "url": "https://www.kreiszeitung.de/rssfeed.rdf",
-    "outlet": "Kreiszeitung",
-    "delicateURLs": false,
-    "redirectLinks": false
+    "outlet": "Kreiszeitung"
   },
   {
     "url": "https://fragdenstaat.de/blog/feed/",
-    "outlet": "FragDenStaat-Blog",
-    "delicateURLs": false,
-    "redirectLinks": false
+    "outlet": "FragDenStaat-Blog"
   },
   {
     "url": "https://www.t-online.de/themen/rss/",
-    "outlet": "T-Online",
-    "delicateURLs": false,
-    "redirectLinks": false
+    "outlet": "T-Online"
   },
   {
     "url": "https://www.wiwo.de/contentexport/feed/rss/schlagzeilen",
-    "outlet": "Wirtschaftswoche",
-    "delicateURLs": false,
-    "redirectLinks": false
+    "outlet": "Wirtschaftswoche"
   },
   {
     "url": "http://www.waz-online.de/rss/feed/waz_schlagzeilen",
-    "outlet": "WAZ",
-    "delicateURLs": false,
-    "redirectLinks": false
+    "outlet": "WAZ"
   },
   {
     "url": "http://www.waz-online.de/rss/feed/az_schlagzeilen",
-    "outlet": "Aller-Zeitung",
-    "delicateURLs": false,
-    "redirectLinks": false
+    "outlet": "Aller-Zeitung"
   },
   {
     "url": "http://www.turi2.de/feed/",
-    "outlet": "turi2",
-    "delicateURLs": false,
-    "redirectLinks": false
+    "outlet": "turi2"
   },
   {
     "url": "https://www.freie-radios.net/portal/podcast.php?rss",
-    "outlet": "Freie Radios",
-    "delicateURLs": false,
-    "redirectLinks": false
+    "outlet": "Freie Radios"
   },
   {
     "url": "https://jungle.world/rss.xml",
-    "outlet": "Jungle World",
-    "delicateURLs": false,
-    "redirectLinks": false
+    "outlet": "Jungle World"
   },
   {
     "url": "https://www.presseportal.de/rss/politik.rss2",
-    "outlet": "Presseportal.de",
-    "delicateURLs": false,
-    "redirectLinks": false
+    "outlet": "Presseportal.de"
   },
   {
     "url": "https://www.presseportal.de/rss/medien-kultur.rss2",
-    "outlet": "Presseportal.de",
-    "delicateURLs": false,
-    "redirectLinks": false
+    "outlet": "Presseportal.de"
   },
   {
     "url": "https://www.presseportal.de/rss/wirtschaft.rss2",
-    "outlet": "Presseportal.de",
-    "delicateURLs": false,
-    "redirectLinks": false
+    "outlet": "Presseportal.de"
   },
   {
     "url": "https://www.presseportal.de/rss/soziales.rss2",
-    "outlet": "Presseportal.de",
-    "delicateURLs": false,
-    "redirectLinks": false
+    "outlet": "Presseportal.de"
   },
   {
     "url": "https://www.presseportal.de/rss/umwelt.rss2",
-    "outlet": "Presseportal.de",
-    "delicateURLs": false,
-    "redirectLinks": false
+    "outlet": "Presseportal.de"
   },
   {
     "url": "https://www.presseportal.de/rss/wissen-bildung.rss2",
-    "outlet": "Presseportal.de",
-    "delicateURLs": false,
-    "redirectLinks": false
+    "outlet": "Presseportal.de"
   },
   {
     "url": "https://www.presseportal.de/rss/netzwelt.rss2",
-    "outlet": "Presseportal.de",
-    "delicateURLs": false,
-    "redirectLinks": false
+    "outlet": "Presseportal.de"
   },
   {
     "url": "https://www.presseportal.de/rss/handel.rss2",
-    "outlet": "Presseportal.de",
-    "delicateURLs": false,
-    "redirectLinks": false
+    "outlet": "Presseportal.de"
   },
   {
     "url": "https://www.presseportal.de/rss/finanzen.rss2",
-    "outlet": "Presseportal.de",
-    "delicateURLs": false,
-    "redirectLinks": false
+    "outlet": "Presseportal.de"
   },
   {
     "url": "https://www.presseportal.de/rss/bau-immobilien.rss2",
-    "outlet": "Presseportal.de",
-    "delicateURLs": false,
-    "redirectLinks": false
+    "outlet": "Presseportal.de"
   },
   {
     "url": "https://www.presseportal.de/rss/panorama.rss2",
-    "outlet": "Presseportal.de",
-    "delicateURLs": false,
-    "redirectLinks": false
+    "outlet": "Presseportal.de"
   },
   {
     "url": "https://www.presseportal.de/rss/auto-verkehr.rss2",
-    "outlet": "Presseportal.de",
-    "delicateURLs": false,
-    "redirectLinks": false
+    "outlet": "Presseportal.de"
   },
   {
     "url": "https://www.presseportal.de/rss/gesundheit-medizin.rss2",
-    "outlet": "Presseportal.de",
-    "delicateURLs": false,
-    "redirectLinks": false
+    "outlet": "Presseportal.de"
   },
   {
     "url": "http://rss.dw.com/xml/rss-de-all",
-    "outlet": "Deutsche Welle",
-    "delicateURLs": false,
-    "redirectLinks": false
+    "outlet": "Deutsche Welle"
   },
   {
     "url": "https://www.buzzfeed.com/de.xml",
     "outlet": "BuzzFeed",
-    "delicateURLs": false,
     "redirectLinks": true
   },
   {
     "url": "https://www.buzzfeed.com/de/news.xml",
     "outlet": "BuzzFeed",
-    "delicateURLs": false,
+
     "redirectLinks": true
   },
   {
     "url": "http://www.journalist-magazin.de/feed/2",
-    "outlet": "journalist",
-    "delicateURLs": false,
-    "redirectLinks": false
+    "outlet": "journalist"
   },
   {
     "url": "http://www.journalist-magazin.de/taxonomy/term/1/all/feed",
-    "outlet": "journalist",
-    "delicateURLs": false,
-    "redirectLinks": false
+    "outlet": "journalist"
   },
   {
     "url": "http://www.journalist-magazin.de/taxonomy/term/31/all/feed",
-    "outlet": "journalist",
-    "delicateURLs": false,
-    "redirectLinks": false
+    "outlet": "journalist"
   },
   {
     "url": "http://www.journalist-magazin.de/taxonomy/term/2/all/feed",
-    "outlet": "journalist",
-    "delicateURLs": false,
-    "redirectLinks": false
+    "outlet": "journalist"
   },
   {
     "url": "https://www.nachdenkseiten.de/?feed=rss2",
-    "outlet": "NachDenkSeiten",
-    "delicateURLs": false,
-    "redirectLinks": false
+    "outlet": "NachDenkSeiten"
   },
   {
     "url": "https://derstandard.at/?page=rss&ressort=Seite1",
-    "outlet": "derStandard.at",
-    "delicateURLs": false,
-    "redirectLinks": false
+    "outlet": "derStandard.at"
   },
   {
     "url": "http://derstandard.at/?page=rss&ressort=Inland",
-    "outlet": "derStandard.at",
-    "delicateURLs": false,
-    "redirectLinks": false
+    "outlet": "derStandard.at"
   },
   {
     "url": "http://derstandard.at/?page=rss&ressort=International",
-    "outlet": "derStandard.at",
-    "delicateURLs": false,
-    "redirectLinks": false
+    "outlet": "derStandard.at"
   },
   {
     "url": "https://www.abgeordnetenwatch.de/rss/blog.xml",
-    "outlet": "Abgeordnetenwatch-Blog",
-    "delicateURLs": false,
-    "redirectLinks": false
+    "outlet": "Abgeordnetenwatch-Blog"
   },
   {
     "url": "https://www.juedische-allgemeine.de/rss",
-    "outlet": "Jüdische Allgemeine",
-    "delicateURLs": false,
-    "redirectLinks": false
+    "outlet": "Jüdische Allgemeine"
   },
   {
     "url": "https://www.evangelisch.de/rss/inhalte.rss",
-    "outlet": "evangelisch.de",
-    "delicateURLs": false,
-    "redirectLinks": false
+    "outlet": "evangelisch.de"
   },
   {
     "url": "https://www.queer.de/rss/newsticker2.0.komplett.xml",
-    "outlet": "queer.de",
-    "delicateURLs": false,
-    "redirectLinks": false
+    "outlet": "queer.de"
   },
   {
     "url": "https://www.die-tagespost.de/storage/rss/rss/politik.xml",
-    "outlet": "Die Tagespost (Katholische Zeitung)",
-    "delicateURLs": false,
-    "redirectLinks": false
+    "outlet": "Die Tagespost (Katholische Zeitung)"
   },
   {
     "url": "https://blog.campact.de/feed/",
-    "outlet": "Campact-Blog",
-    "delicateURLs": false,
-    "redirectLinks": false
+    "outlet": "Campact-Blog"
   },
   {
     "url": "https://rss.focus.de/fol/XML/rss_folnews.xml",
-    "outlet": "FOCUS-Online",
-    "delicateURLs": false,
-    "redirectLinks": false
+    "outlet": "FOCUS-Online"
   },
   {
     "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
-    "outlet": "Handelsblatt",
-    "delicateURLs": false,
-    "redirectLinks": false
+    "outlet": "Handelsblatt"
   },
   {
     "url": "https://www.handelsblatt.com/contentexport/feed/politik",
-    "outlet": "Handelsblatt",
-    "delicateURLs": false,
-    "redirectLinks": false
+    "outlet": "Handelsblatt"
   },
   {
     "url": "https://www.handelsblatt.com/contentexport/feed/top-themen",
-    "outlet": "Handelsblatt",
-    "delicateURLs": false,
-    "redirectLinks": false
+    "outlet": "Handelsblatt"
   },
   {
     "url": "https://www.huffingtonpost.de/feeds/index.xml",
-    "outlet": "Huffington Post",
-    "delicateURLs": false,
-    "redirectLinks": false
+    "outlet": "Huffington Post"
   },
   {
     "url": "http://www.fr.de/?_XML=rss",
-    "outlet": "Frankfurter Rundschau",
-    "delicateURLs": false,
-    "redirectLinks": false
+    "outlet": "Frankfurter Rundschau"
   },
   {
     "url": "https://www.fr.de/politik/?_XML=rss",
-    "outlet": "Frankfurter Rundschau",
-    "delicateURLs": false,
-    "redirectLinks": false
+    "outlet": "Frankfurter Rundschau"
   },
   {
     "url": "https://www.freiepresse.de/rss/rss_chemnitz.php",
-    "outlet": "Freie Presse",
-    "delicateURLs": false,
-    "redirectLinks": false
+    "outlet": "Freie Presse"
   },
   {
     "url": "https://www.freiepresse.de/rss/rss_erzgebirge.php",
-    "outlet": "Freie Presse",
-    "delicateURLs": false,
-    "redirectLinks": false
+    "outlet": "Freie Presse"
   },
   {
     "url": "https://www.freiepresse.de/rss/rss_mittelsachsen.php",
-    "outlet": "Freie Presse",
-    "delicateURLs": false,
-    "redirectLinks": false
+    "outlet": "Freie Presse"
   },
   {
     "url": "https://www.freiepresse.de/rss/rss_vogtland.php",
-    "outlet": "Freie Presse",
-    "delicateURLs": false,
-    "redirectLinks": false
+    "outlet": "Freie Presse"
   },
   {
     "url": "https://www.freiepresse.de/rss/rss_zwickau.php",
-    "outlet": "Freie Presse",
-    "delicateURLs": false,
-    "redirectLinks": false
+    "outlet": "Freie Presse"
   },
   {
     "url": "https://www.freiepresse.de/rss/rss_politik.php",
-    "outlet": "Freie Presse",
-    "delicateURLs": false,
-    "redirectLinks": false
+    "outlet": "Freie Presse"
   },
   {
     "url": "https://www.freiepresse.de/rss/rss_wirtschaft.php",
-    "outlet": "Freie Presse",
-    "delicateURLs": false,
-    "redirectLinks": false
+    "outlet": "Freie Presse"
   },
   {
     "url": "https://www.freiepresse.de/rss/rss_kultur.php",
-    "outlet": "Freie Presse",
-    "delicateURLs": false,
-    "redirectLinks": false
+    "outlet": "Freie Presse"
   },
   {
     "url": "https://www.freiepresse.de/rss/rss_sport.php",
-    "outlet": "Freie Presse",
-    "delicateURLs": false,
-    "redirectLinks": false
+    "outlet": "Freie Presse"
   },
   {
     "url": "http://www.kyffhaeuser-nachrichten.de/_rss/news_rss_iso.php",
-    "outlet": "Kyffhäuser Nachrichten",
-    "delicateURLs": false,
-    "redirectLinks": false
+    "outlet": "Kyffhäuser Nachrichten"
   },
   {
     "url": "https://www.swr.de/~rss/home/swr-de-homepage-100.xml",
@@ -766,8 +527,6 @@
   {
     "url":
       "https://www.bild.de/rssfeeds/vw-alles/vw-alles-26970192,dzbildplus=true,sort=1,teaserbildmobil=false,view=rss2,wtmc=ob.feed.bild.xml",
-    "outlet": "Bild",
-    "delicateURLs": false,
-    "redirectLinks": false
+    "outlet": "Bild"
   }
 ]
