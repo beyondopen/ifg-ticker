@@ -541,13 +541,13 @@
     "url": "https://www.buzzfeed.com/de.xml",
     "outlet": "BuzzFeed",
     "delicateURLs": false,
-    "redirectLinks": false
+    "redirectLinks": true
   },
   {
     "url": "https://www.buzzfeed.com/de/news.xml",
     "outlet": "BuzzFeed",
     "delicateURLs": false,
-    "redirectLinks": false
+    "redirectLinks": true
   },
   {
     "url": "http://www.journalist-magazin.de/feed/2",
