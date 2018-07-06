@@ -1,4 +1,4 @@
-#/bin/bash
+#!/bin/bash
 set -e
 export PYTHONIOENCODING=utf8;
 while : ; do
