@@ -736,6 +736,34 @@
     "redirectLinks": false
   },
   {
+    "url": "https://www.swr.de/~rss/home/swr-de-homepage-100.xml",
+    "outlet": "SWR"
+  },
+  {
+    "url": "https://www.swr.de/~rss/swraktuell/swraktuell-100.xml",
+    "outlet": "SWR"
+  },
+  {
+    "url": "https://www.swr.de/~rss/swraktuell/swraktuell-bw-100.xml",
+    "outlet": "SWR"
+  },
+  {
+    "url": "https://www.swr.de/~rss/swraktuell/swraktuell-rp-100.xml",
+    "outlet": "SWR"
+  },
+  {
+    "url": "https://www.swr.de/~rss/sport/sport-aktuell-102.xml",
+    "outlet": "SWR"
+  },
+  {
+    "url": "https://www.swr.de/export/rss/wissen",
+    "outlet": "SWR"
+  },
+  {
+    "url": "http://www.planet-schule.de/rss.xml",
+    "outlet": "SWR"
+  },
+  {
     "url":
       "https://www.bild.de/rssfeeds/vw-alles/vw-alles-26970192,dzbildplus=true,sort=1,teaserbildmobil=false,view=rss2,wtmc=ob.feed.bild.xml",
     "outlet": "Bild",
