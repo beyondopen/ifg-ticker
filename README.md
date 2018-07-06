@@ -19,8 +19,8 @@ Danach müssen die Feeds im folgendem Format in [rssfeeds.json](ttnconfig/rssfee
   {
     "url": "http://www.taz.de/Nord/!p4650;rss/",
     "outlet": "TAZ",
-    "delicateURLs": false,
-    "redirectLinks": false
+    "delicateURLs": false, // optional, default: false, if true, don't clean URLs of articles (e.g. removing everthing after '#' or '?')
+    "redirectLinks": false // optional, default: false, if true, follows redirects
   },
 ```
 
