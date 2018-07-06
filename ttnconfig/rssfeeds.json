@@ -12,6 +12,12 @@
     "redirectLinks": false
   },
   {
+    "url": "http://feeds.feedburner.com/Bildblog",
+    "outlet": "BILDblog",
+    "delicateURLs": false,
+    "redirectLinks": false
+  },
+  {
     "url": "https://www.freitag.de/@@RSS",
     "outlet": "Der Freitag",
     "delicateURLs": false,
