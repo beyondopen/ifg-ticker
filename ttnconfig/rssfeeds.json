@@ -525,6 +525,123 @@
     "outlet": "SWR"
   },
   {
+    "url": "http://www.ndr.de/home/index-rss.xml",
+    "outlet": "NDR"
+  },
+  {
+    "url": "http://www.ndr.de/nachrichten/niedersachsen/index-rss.xml",
+    "outlet": "NDR"
+  },
+  {
+    "url": "http://www.ndr.de/nachrichten/schleswig-holstein/index-rss.xml",
+    "outlet": "NDR"
+  },
+  {
+    "url": "http://www.ndr.de/nachrichten/mecklenburg-vorpommern/index-rss.xml",
+    "outlet": "NDR"
+  },
+  {
+    "url": "http://www.ndr.de/nachrichten/hamburg/index-rss.xml",
+    "outlet": "NDR"
+  },
+  {
+    "url":
+      "https://www.ksta.de/blueprint/servlet/xml/ksta/23699840-asYahooFeed.xml",
+    "outlet": "Köln Stadt-Anzeiger"
+  },
+  {
+    "url":
+      "https://www.ksta.de/blueprint/servlet/xml/ksta/23699416-asYahooFeed.xml",
+    "outlet": "Köln Stadt-Anzeiger"
+  },
+  {
+    "url":
+      "https://www.ksta.de/blueprint/servlet/xml/ksta/23699296-asYahooFeed.xml",
+    "outlet": "Köln Stadt-Anzeiger"
+  },
+  {
+    "url": "https://www.mainpost.de/storage/rss/rss/topnews.xml",
+    "outlet": "Main Post"
+  },
+  {
+    "url": "http://www.rbb24.de/aktuell/index.xml/feed=rss.xml",
+    "outlet": "rbb"
+  },
+  {
+    "url": "http://www.rbb24.de/politik/index.xml/feed=rss.xml",
+    "outlet": "rbb"
+  },
+  {
+    "url": "http://www.rbb24.de/wirtschaft/index.xml/feed=rss.xml",
+    "outlet": "rbb"
+  },
+  {
+    "url":
+      "https://www.ardmediathek.de/tv/Kontraste/Sendung?documentId=431796&bcastId=431796&rss=true",
+    "outlet": "Kontraste"
+  },
+  {
+    "url":
+      "https://www.ardmediathek.de/tv/Monitor/Sendung?documentId=438224&bcastId=438224&rss=true",
+    "outlet": "Monitor"
+  },
+  {
+    "url": "http://feeds.feedburner.com/taurillon/de",
+    "outlet": "treffpunkteuropa.de"
+  },
+  {
+    "url": "https://www.wired.de/feed/latest",
+    "outlet": "WIRED"
+  },
+  {
+    "url": "https://missy-magazine.de/feed/",
+    "outlet": "Missy Magazin"
+  },
+  {
+    "url": "https://www.emma.de/rss.xml",
+    "outlet": "Emma"
+  },
+  {
+    "url": "https://www.mdr.de/nachrichten/nachrichten100-rss.xml",
+    "outlet": "MDR"
+  },
+  {
+    "url": "https://www.br.de/nachrichten/aktuell-100~rss.xml",
+    "outlet": "BR"
+  },
+  {
+    "url": "https://freiheitsrechte.org/feed/",
+    "outlet": "Gesellschaft für Freiheitsrechte"
+  },
+  {
+    "url": "https://www.reporter-ohne-grenzen.de/feed.rss",
+    "outlet": "Reporter ohne Grenzen"
+  },
+  {
+    "url": "http://zak.de/home/?type=rss",
+    "outlet": "ZOLLERN-ALB-KURIER"
+  },
+  {
+    "url": "https://www.rnz.de/feed/6-regionalticker.xml",
+    "outlet": "Rhein-Neckar-Zeitung"
+  },
+  {
+    "url": "http://www.pnn.de/rss.xml",
+    "outlet": "PNN"
+  },
+  {
+    "url": "http://www.pnn.de/politik/rss.xml",
+    "outlet": "PNN"
+  },
+  {
+    "url": "http://www.pnn.de/potsdam/rss.xml",
+    "outlet": "PNN"
+  },
+  {
+    "url": "https://www.freischreiber.de/feed/",
+    "outlet": "Freischreiber"
+  },
+  {
     "url":
       "https://www.bild.de/rssfeeds/vw-alles/vw-alles-26970192,dzbildplus=true,sort=1,teaserbildmobil=false,view=rss2,wtmc=ob.feed.bild.xml",
     "outlet": "Bild"
