@@ -130,6 +130,10 @@
     "outlet": "Süddeutsche Zeitung"
   },
   {
+    "url": "https://www.tah.de/rss-feed.html",
+    "outlet": "Täglicher Anzeiger"
+  },
+  {
     "url": "https://www.nzz.ch/startseite.rss",
     "outlet": "Neue Züricher Zeitung"
   },
