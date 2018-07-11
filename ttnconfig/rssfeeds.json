@@ -122,6 +122,14 @@
     "outlet": "Süddeutsche Zeitung"
   },
   {
+    "url": "http://rss.sueddeutsche.de/rss/Politik",
+    "outlet": "Süddeutsche Zeitung"
+  },
+  {
+    "url": "http://rss.sueddeutsche.de/rss/Topthemen",
+    "outlet": "Süddeutsche Zeitung"
+  },
+  {
     "url": "https://www.nzz.ch/startseite.rss",
     "outlet": "Neue Züricher Zeitung"
   },
