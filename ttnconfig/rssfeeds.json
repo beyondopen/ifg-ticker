@@ -16,6 +16,14 @@
     "outlet": "Der Freitag"
   },
   {
+    "url": "https://www.freitag.de/politik/@@RSS",
+    "outlet": "Der Freitag"
+  },
+  {
+    "url": "https://www.freitag.de/kultur/@@RSS",
+    "outlet": "Der Freitag"
+  },
+  {
     "url": "https://www.freitag.de/community/neu/@@RSS",
     "outlet": "Der Freitag Community"
   },
