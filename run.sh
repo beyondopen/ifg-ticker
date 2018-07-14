@@ -4,8 +4,8 @@
 set -e
 export PYTHONIOENCODING=utf8;
 while : ; do
-  everthink_okay=$(python "safeguard.py")
-  if [ "$everthink_okay" != "True" ]
+  everthing_okay=$(python "safeguard.py")
+  if [ "$everthing_okay" != "True" ]
   then
       echo "Aborting. Something is wrong with your timeline."
       echo "Something is wrong. Please fix me." | mail -s "[IFG-Ticker] HALP!" "hi+ifgticker@jfilter.de"
