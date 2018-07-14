@@ -10,7 +10,7 @@ def sane_timeline():
     Returns:
         True if there are no duplicates and False, otherwise
     """
-    with open('ttnconfig/config.yaml') as f:
+    with open('/home/jfilter/code/ifg-feed/ttnconfig/config.yaml') as f:
         config = yaml.load(f)
 
     api_key, api_secret, oauth_token, oauth_secret = [config['twitter'][k] for k in (
