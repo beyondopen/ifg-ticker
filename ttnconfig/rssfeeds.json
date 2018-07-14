@@ -674,6 +674,10 @@
     "outlet": "Thüringsche Landeszeitung"
   },
   {
+    "url": "https://uebermedien.de/feed/",
+    "outlet": "Übermedien"
+  },
+  {
     "url":
       "https://www.bild.de/rssfeeds/vw-alles/vw-alles-26970192,dzbildplus=true,sort=1,teaserbildmobil=false,view=rss2,wtmc=ob.feed.bild.xml",
     "outlet": "Bild"
