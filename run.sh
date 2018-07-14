@@ -1,10 +1,10 @@
 #!/bin/bash
 # 
-# Runs track-the-news but ensure it always only runs once. Used as a service (which ensures it only runs once)
+# Runs trackthenews with a safeguard. Used as a service (which ensures it only runs once.)
 set -e
 export PYTHONIOENCODING=utf8;
 while : ; do
-  everthing_okay=$(python "safeguard.py")
+  everthing_okay=$(python "/home/jfilter/code/ifg-feed/safeguard.py")
   if [ "$everthing_okay" != "True" ]
   then
       echo "Aborting. Something is wrong with your timeline."
