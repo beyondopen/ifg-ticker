@@ -12,7 +12,7 @@ while : ; do
       exit
   else
     echo "timeline is sane. run trackthenews."
-    /home/jfilter/.local/bin/trackthenews /home/jfilter/code/ifg-feed/ttnconfig/
+    timeout 5h /home/jfilter/.local/bin/trackthenews /home/jfilter/code/ifg-feed/ttnconfig/
     sleep 30
   fi
 done
