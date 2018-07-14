@@ -666,6 +666,14 @@
     "outlet": "Saarbrücker Zeitung"
   },
   {
+    "url": "https://www.watson.de/api/1.0/rss/index.xml",
+    "outlet": "Watson"
+  },
+  {
+    "url": "https://www.tlz.de/startseite/-/rss/Bxy1/feed.rss",
+    "outlet": "Thüringsche Landeszeitung"
+  },
+  {
     "url":
       "https://www.bild.de/rssfeeds/vw-alles/vw-alles-26970192,dzbildplus=true,sort=1,teaserbildmobil=false,view=rss2,wtmc=ob.feed.bild.xml",
     "outlet": "Bild"
