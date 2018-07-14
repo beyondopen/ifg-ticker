@@ -1,3 +1,6 @@
 ttnconfig/config.yaml
 *.db
 validate-data/node_modules
+.vscode
+Pipfile
+Pipfile.lock
