@@ -60,6 +60,10 @@
     "outlet": "FAZ"
   },
   {
+    "url": "http://www.faz.net/rss/aktuell/politik/inland/",
+    "outlet": "FAZ"
+  },
+  {
     "url": "http://www.faz.net/rss/aktuell/",
     "outlet": "FAZ"
   },
@@ -676,6 +680,10 @@
   {
     "url": "https://uebermedien.de/feed/",
     "outlet": "Übermedien"
+  },
+  {
+    "url": "https://www.l-iz.de/feed",
+    "outlet": "Leipziger Internet Zeitung"
   },
   {
     "url":
