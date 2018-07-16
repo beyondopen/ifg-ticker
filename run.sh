@@ -14,6 +14,6 @@ while : ; do
   else
     echo "timeline is sane. run trackthenews."
     timeout 5h /home/jfilter/.local/bin/trackthenews /home/jfilter/code/ifg-feed/ttnconfig/
-    sleep 30
+    sleep 90
   fi
 done
