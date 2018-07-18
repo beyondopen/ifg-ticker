@@ -278,6 +278,10 @@
     "outlet": "Neues Deutschland"
   },
   {
+    "url": "https://www.neues-deutschland.de/rss/neues-deutschland.xml",
+    "outlet": "Neues Deutschland"
+  },
+  {
     "url": "https://meedia.de/feed/",
     "outlet": "Meedia"
   },
