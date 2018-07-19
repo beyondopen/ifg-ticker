@@ -258,6 +258,10 @@
     "outlet": "Volksstimme"
   },
   {
+    "url": "https://www.behoerden-spiegel.de/feed/",
+    "outlet": "Behörden Spiegel"
+  },
+  {
     "url": "http://www.mz-web.de/feed/yahoo.rss",
     "outlet": "Mitteldeutsche Zeitung"
   },
