@@ -294,6 +294,10 @@
     "outlet": "Golem"
   },
   {
+    "url": "https://www.egovernment-computing.de/rss/news.xml",
+    "outlet": "eGovernment Computing"
+  },
+  {
     "url": "http://www.deutschlandfunk.de/die-nachrichten.353.de.rss",
     "outlet": "Deutschlandfunk"
   },
