@@ -710,6 +710,10 @@
     "outlet": "Motherboard (Vice)"
   },
   {
+    "url": "https://www.vice.com/de/rss",
+    "outlet": "Vice"
+  },
+  {
     "url":
       "https://www.bild.de/rssfeeds/vw-alles/vw-alles-26970192,dzbildplus=true,sort=1,teaserbildmobil=false,view=rss2,wtmc=ob.feed.bild.xml",
     "outlet": "Bild"
