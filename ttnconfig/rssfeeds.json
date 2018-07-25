@@ -714,6 +714,18 @@
     "outlet": "Vice"
   },
   {
+    "url": "https://www.akweb.de/rss.xml",
+    "outlet": "analyse & kritik"
+  },
+  {
+    "url": "https://www.politico.eu/de/feed/",
+    "outlet": "Politico"
+  },
+  {
+    "url": "https://www.cicero.de/rss.xml",
+    "outlet": "Cicero"
+  },
+  {
     "url":
       "https://www.bild.de/rssfeeds/vw-alles/vw-alles-26970192,dzbildplus=true,sort=1,teaserbildmobil=false,view=rss2,wtmc=ob.feed.bild.xml",
     "outlet": "Bild"
