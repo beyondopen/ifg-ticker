@@ -23,9 +23,14 @@ def sane_timeline():
     all_urls = []
 
     for t in tweets:
-        urls = re.findall(r'(https?://\S+)', t['text'])
+        text = t['text']
+        cleaned_text = text[text.index(':') + 1:]
+        # print(cleaned_text)
+        urls = re.findall(r'(https?://\S+)', cleaned_text)
         all_urls += urls
-
+    #for l in all_urls:
+    #    if all_urls.count(l) > 1:
+    #         print(l)
     return len(all_urls) == len(set(all_urls))
 
 
