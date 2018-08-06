@@ -726,6 +726,66 @@
     "outlet": "Cicero"
   },
   {
+    "url": "http://www.wz.de/cmlink/rss-wz-wuppertal-1.484894",
+    "outlet": "Westdeutsche Zeitung"
+  },
+  {
+    "url": "http://www.wz.de/cmlink/rss-wz-krefeld-1.484896",
+    "outlet": "Westdeutsche Zeitung"
+  },
+  {
+    "url": "http://www.wz.de/cmlink/rss-wz-dusseldorf-1.516254",
+    "outlet": "Westdeutsche Zeitung"
+  },
+  {
+    "url": "http://www.wz.de/cmlink/wz-rss-moenchengladbach-1.184848",
+    "outlet": "Westdeutsche Zeitung"
+  },
+  {
+    "url": "http://www.wz.de/cmlink/wz-rss-kreis-mettmann-1.198678",
+    "outlet": "Westdeutsche Zeitung"
+  },
+  {
+    "url": "http://www.wz.de/cmlink/wz-rss-kreis-viersen-1.206888",
+    "outlet": "Westdeutsche Zeitung"
+  },
+  {
+    "url": "http://www.wz.de/cmlink/wz-rss-rhein-kreis-neuss-1.205203",
+    "outlet": "Westdeutsche Zeitung"
+  },
+  {
+    "url": "http://www.wz.de/cmlink/wz-rss-burscheid-1.194973",
+    "outlet": "Westdeutsche Zeitung"
+  },
+  {
+    "url": "http://www.wz.de/cmlink/wz-rss-sprockhovel-1.204604",
+    "outlet": "Westdeutsche Zeitung"
+  },
+  {
+    "url": "http://www.wz.de/cmlink/wz-rss-politik-1.481772",
+    "outlet": "Westdeutsche Zeitung"
+  },
+  {
+    "url": "http://www.wz.de/cmlink/wz-rss-wirtschaft-1.482779",
+    "outlet": "Westdeutsche Zeitung"
+  },
+  {
+    "url": "http://www.wz.de/cmlink/wz-rss-kultur-1.484779",
+    "outlet": "Westdeutsche Zeitung"
+  },
+  {
+    "url": "http://www.wz.de/cmlink/wz-rss-panorama-1.481969",
+    "outlet": "Westdeutsche Zeitung"
+  },
+  {
+    "url": "http://www.wz.de/cmlink/wz-rss-gesellschaft-1.482772",
+    "outlet": "Westdeutsche Zeitung"
+  },
+  {
+    "url": "http://www.wz.de/cmlink/wz-rss-politik-1.481772",
+    "outlet": "Westdeutsche Zeitung"
+  },
+  {
     "url":
       "https://www.bild.de/rssfeeds/vw-alles/vw-alles-26970192,dzbildplus=true,sort=1,teaserbildmobil=false,view=rss2,wtmc=ob.feed.bild.xml",
     "outlet": "Bild"
