@@ -803,159 +803,198 @@
     "outlet": "Bild"
   },
   {
-    "url": "https://moz.de/nc/service/weiteres/rss-feeds/?tx_rsmretrescorss_pi1%5Bshow%5D=1",
+    "url":
+      "https://moz.de/nc/service/weiteres/rss-feeds/?tx_rsmretrescorss_pi1%5Bshow%5D=1",
     "outlet": "MOZ - Nachrichten aus Brandenburg"
   },
   {
-    "url": "https://moz.de/nc/service/weiteres/rss-feeds/?tx_rsmretrescorss_pi1%5Bshow%5D=2",
+    "url":
+      "https://moz.de/nc/service/weiteres/rss-feeds/?tx_rsmretrescorss_pi1%5Bshow%5D=2",
     "outlet": "MOZ - Nachrichten aus Berlin"
   },
   {
-    "url": "https://moz.de/nc/service/weiteres/rss-feeds/?tx_rsmretrescorss_pi1%5Bshow%5D=3",
+    "url":
+      "https://moz.de/nc/service/weiteres/rss-feeds/?tx_rsmretrescorss_pi1%5Bshow%5D=3",
     "outlet": "MOZ - Nachrichten aus Deutschland"
   },
   {
-    "url": "https://moz.de/nc/service/weiteres/rss-feeds/?tx_rsmretrescorss_pi1%5Bshow%5D=6",
+    "url":
+      "https://moz.de/nc/service/weiteres/rss-feeds/?tx_rsmretrescorss_pi1%5Bshow%5D=6",
     "outlet": "MOZ - Nachrichten aller Lokalredaktionen"
   },
   {
-    "url": "https://moz.de/nc/service/weiteres/rss-feeds/?tx_rsmretrescorss_pi1%5Bshow%5D=13",
+    "url":
+      "https://moz.de/nc/service/weiteres/rss-feeds/?tx_rsmretrescorss_pi1%5Bshow%5D=13",
     "outlet": "MOZ - Blitzer in Brandenburg"
   },
   {
-    "url": "https://moz.de/nc/service/weiteres/rss-feeds/?tx_rsmretrescorss_pi1%5Bshow%5D=79",
+    "url":
+      "https://moz.de/nc/service/weiteres/rss-feeds/?tx_rsmretrescorss_pi1%5Bshow%5D=79",
     "outlet": "MOZ - ArcelorMittal"
   },
   {
-    "url": "https://moz.de/nc/service/weiteres/rss-feeds/?tx_rsmretrescorss_pi1%5Bshow%5D=83",
+    "url":
+      "https://moz.de/nc/service/weiteres/rss-feeds/?tx_rsmretrescorss_pi1%5Bshow%5D=83",
     "outlet": "MOZ - BER"
   },
   {
-    "url": "https://moz.de/nc/service/weiteres/rss-feeds/?tx_rsmretrescorss_pi1%5Bshow%5D=85",
+    "url":
+      "https://moz.de/nc/service/weiteres/rss-feeds/?tx_rsmretrescorss_pi1%5Bshow%5D=85",
     "outlet": "MOZ - Kulturnachrichten"
   },
   {
-    "url": "https://moz.de/nc/service/weiteres/rss-feeds/?tx_rsmretrescorss_pi1%5Bshow%5D=86",
+    "url":
+      "https://moz.de/nc/service/weiteres/rss-feeds/?tx_rsmretrescorss_pi1%5Bshow%5D=86",
     "outlet": "MOZ - Weltnachrichten"
   },
   {
-    "url": "https://moz.de/nc/service/weiteres/rss-feeds/?tx_rsmretrescorss_pi1%5Bshow%5D=87",
+    "url":
+      "https://moz.de/nc/service/weiteres/rss-feeds/?tx_rsmretrescorss_pi1%5Bshow%5D=87",
     "outlet": "MOZ - Nachrichten aus dem Bereich Vermischtes"
   },
   {
-    "url": "https://moz.de/nc/service/weiteres/rss-feeds/?tx_rsmretrescorss_pi1%5Bshow%5D=88",
+    "url":
+      "https://moz.de/nc/service/weiteres/rss-feeds/?tx_rsmretrescorss_pi1%5Bshow%5D=88",
     "outlet": "MOZ - Wirtschaftsnachrichten"
   },
   {
-    "url": "https://moz.de/nc/service/weiteres/rss-feeds/?tx_rsmretrescorss_pi1%5Bshow%5D=89",
+    "url":
+      "https://moz.de/nc/service/weiteres/rss-feeds/?tx_rsmretrescorss_pi1%5Bshow%5D=89",
     "outlet": "MOZ - Sportnachrichten"
   },
   {
-    "url": "https://moz.de/nc/service/weiteres/rss-feeds/?tx_rsmretrescorss_pi1%5Bshow%5D=90",
+    "url":
+      "https://moz.de/nc/service/weiteres/rss-feeds/?tx_rsmretrescorss_pi1%5Bshow%5D=90",
     "outlet": "MOZ - Nachrichten aus Hennigsdorf"
   },
   {
-    "url": "https://moz.de/nc/service/weiteres/rss-feeds/?tx_rsmretrescorss_pi1%5Bshow%5D=91",
+    "url":
+      "https://moz.de/nc/service/weiteres/rss-feeds/?tx_rsmretrescorss_pi1%5Bshow%5D=91",
     "outlet": "MOZ - Nachrichten aus Gransee"
   },
   {
-    "url": "https://moz.de/nc/service/weiteres/rss-feeds/?tx_rsmretrescorss_pi1%5Bshow%5D=92",
+    "url":
+      "https://moz.de/nc/service/weiteres/rss-feeds/?tx_rsmretrescorss_pi1%5Bshow%5D=92",
     "outlet": "MOZ - Nachrichten aus Belzig"
   },
   {
-    "url": "https://moz.de/nc/service/weiteres/rss-feeds/?tx_rsmretrescorss_pi1%5Bshow%5D=93",
+    "url":
+      "https://moz.de/nc/service/weiteres/rss-feeds/?tx_rsmretrescorss_pi1%5Bshow%5D=93",
     "outlet": "MOZ - Nachrichten aus Falkensee"
   },
   {
-    "url": "https://moz.de/nc/service/weiteres/rss-feeds/?tx_rsmretrescorss_pi1%5Bshow%5D=94",
+    "url":
+      "https://moz.de/nc/service/weiteres/rss-feeds/?tx_rsmretrescorss_pi1%5Bshow%5D=94",
     "outlet": "MOZ - Nachrichten aus Rathenow"
   },
   {
-    "url": "https://moz.de/nc/service/weiteres/rss-feeds/?tx_rsmretrescorss_pi1%5Bshow%5D=95",
+    "url":
+      "https://moz.de/nc/service/weiteres/rss-feeds/?tx_rsmretrescorss_pi1%5Bshow%5D=95",
     "outlet": "MOZ - Nachrichten aus Brandenburg/Havel"
   },
   {
-    "url": "https://moz.de/nc/service/weiteres/rss-feeds/?tx_rsmretrescorss_pi1%5Bshow%5D=96",
+    "url":
+      "https://moz.de/nc/service/weiteres/rss-feeds/?tx_rsmretrescorss_pi1%5Bshow%5D=96",
     "outlet": "MOZ - Nachrichten aus Neuruppin"
   },
   {
-    "url": "https://moz.de/nc/service/weiteres/rss-feeds/?tx_rsmretrescorss_pi1%5Bshow%5D=97",
+    "url":
+      "https://moz.de/nc/service/weiteres/rss-feeds/?tx_rsmretrescorss_pi1%5Bshow%5D=97",
     "outlet": "MOZ - Nachrichten aus Oranienburg"
   },
   {
-    "url": "https://moz.de/nc/service/weiteres/rss-feeds/?tx_rsmretrescorss_pi1%5Bshow%5D=98",
+    "url":
+      "https://moz.de/nc/service/weiteres/rss-feeds/?tx_rsmretrescorss_pi1%5Bshow%5D=98",
     "outlet": "MOZ - Nachrichten aus Frankfurt (Oder)"
   },
   {
-    "url": "https://moz.de/nc/service/weiteres/rss-feeds/?tx_rsmretrescorss_pi1%5Bshow%5D=99",
+    "url":
+      "https://moz.de/nc/service/weiteres/rss-feeds/?tx_rsmretrescorss_pi1%5Bshow%5D=99",
     "outlet": "MOZ - SC Frankfurt"
   },
   {
-    "url": "https://moz.de/nc/service/weiteres/rss-feeds/?tx_rsmretrescorss_pi1%5Bshow%5D=100",
+    "url":
+      "https://moz.de/nc/service/weiteres/rss-feeds/?tx_rsmretrescorss_pi1%5Bshow%5D=100",
     "outlet": "MOZ - Nachrichten aus Seelow"
   },
   {
-    "url": "https://moz.de/nc/service/weiteres/rss-feeds/?tx_rsmretrescorss_pi1%5Bshow%5D=101",
+    "url":
+      "https://moz.de/nc/service/weiteres/rss-feeds/?tx_rsmretrescorss_pi1%5Bshow%5D=101",
     "outlet": "MOZ - Nachrichten aus Fürstenwalde"
   },
   {
-    "url": "https://moz.de/nc/service/weiteres/rss-feeds/?tx_rsmretrescorss_pi1%5Bshow%5D=102",
+    "url":
+      "https://moz.de/nc/service/weiteres/rss-feeds/?tx_rsmretrescorss_pi1%5Bshow%5D=102",
     "outlet": "MOZ - Nachrichten aus der Uckermark"
   },
   {
-    "url": "https://moz.de/nc/service/weiteres/rss-feeds/?tx_rsmretrescorss_pi1%5Bshow%5D=103",
+    "url":
+      "https://moz.de/nc/service/weiteres/rss-feeds/?tx_rsmretrescorss_pi1%5Bshow%5D=103",
     "outlet": "MOZ - Nachrichten aus Eisenhüttenstadt"
   },
   {
-    "url": "https://moz.de/nc/service/weiteres/rss-feeds/?tx_rsmretrescorss_pi1%5Bshow%5D=104",
+    "url":
+      "https://moz.de/nc/service/weiteres/rss-feeds/?tx_rsmretrescorss_pi1%5Bshow%5D=104",
     "outlet": "MOZ - Regionalsport"
   },
   {
-    "url": "https://moz.de/nc/service/weiteres/rss-feeds/?tx_rsmretrescorss_pi1%5Bshow%5D=105",
+    "url":
+      "https://moz.de/nc/service/weiteres/rss-feeds/?tx_rsmretrescorss_pi1%5Bshow%5D=105",
     "outlet": "MOZ - Nachrichten aus Bad Freienwalde"
   },
   {
-    "url": "https://moz.de/nc/service/weiteres/rss-feeds/?tx_rsmretrescorss_pi1%5Bshow%5D=106",
+    "url":
+      "https://moz.de/nc/service/weiteres/rss-feeds/?tx_rsmretrescorss_pi1%5Bshow%5D=106",
     "outlet": "MOZ - Nachrichten aus Groß Kreutz und Potsdam-Mittelmark"
   },
   {
-    "url": "https://moz.de/nc/service/weiteres/rss-feeds/?tx_rsmretrescorss_pi1%5Bshow%5D=107",
+    "url":
+      "https://moz.de/nc/service/weiteres/rss-feeds/?tx_rsmretrescorss_pi1%5Bshow%5D=107",
     "outlet": "MOZ - MOL-Sportlerwahl"
   },
   {
-    "url": "https://moz.de/nc/service/weiteres/rss-feeds/?tx_rsmretrescorss_pi1%5Bshow%5D=108",
+    "url":
+      "https://moz.de/nc/service/weiteres/rss-feeds/?tx_rsmretrescorss_pi1%5Bshow%5D=108",
     "outlet": "MOZ - Nachrichten aus Beeskow"
   },
   {
-    "url": "https://moz.de/nc/service/weiteres/rss-feeds/?tx_rsmretrescorss_pi1%5Bshow%5D=109",
+    "url":
+      "https://moz.de/nc/service/weiteres/rss-feeds/?tx_rsmretrescorss_pi1%5Bshow%5D=109",
     "outlet": "MOZ - Nachrichten aus Eberswalde"
   },
   {
-    "url": "https://moz.de/nc/service/weiteres/rss-feeds/?tx_rsmretrescorss_pi1%5Bshow%5D=110",
+    "url":
+      "https://moz.de/nc/service/weiteres/rss-feeds/?tx_rsmretrescorss_pi1%5Bshow%5D=110",
     "outlet": "MOZ - Nachrichten aus Bernau"
   },
   {
-    "url": "https://moz.de/nc/service/weiteres/rss-feeds/?tx_rsmretrescorss_pi1%5Bshow%5D=111",
+    "url":
+      "https://moz.de/nc/service/weiteres/rss-feeds/?tx_rsmretrescorss_pi1%5Bshow%5D=111",
     "outlet": "MOZ - Nachrichten aus Strausberg"
   },
   {
-    "url": "https://moz.de/nc/service/weiteres/rss-feeds/?tx_rsmretrescorss_pi1%5Bshow%5D=112",
+    "url":
+      "https://moz.de/nc/service/weiteres/rss-feeds/?tx_rsmretrescorss_pi1%5Bshow%5D=112",
     "outlet": "MOZ - Tour de MOZ"
   },
   {
-    "url": "https://moz.de/nc/service/weiteres/rss-feeds/?tx_rsmretrescorss_pi1%5Bshow%5D=115",
+    "url":
+      "https://moz.de/nc/service/weiteres/rss-feeds/?tx_rsmretrescorss_pi1%5Bshow%5D=115",
     "outlet": "MOZ - Auto"
   },
   {
-    "url": "https://moz.de/nc/service/weiteres/rss-feeds/?tx_rsmretrescorss_pi1%5Bshow%5D=116",
+    "url":
+      "https://moz.de/nc/service/weiteres/rss-feeds/?tx_rsmretrescorss_pi1%5Bshow%5D=116",
     "outlet": "MOZ - Nachrichten aus Erkner"
   },
   {
-    "url": "https://moz.de/nc/service/weiteres/rss-feeds/?tx_rsmretrescorss_pi1%5Bshow%5D=117",
+    "url":
+      "https://moz.de/nc/service/weiteres/rss-feeds/?tx_rsmretrescorss_pi1%5Bshow%5D=117",
     "outlet": "MOZ - Nachrichten aus Bad Freienwalde"
   },
   {
-    "url": "https://www.butenunbinnen.de/feed/rss/nachrichten/neuste-nachrichten100.xml",
+    "url":
+      "https://www.butenunbinnen.de/feed/rss/nachrichten/neuste-nachrichten100.xml",
     "outlet": "buten un binnen"
   }
 ]
