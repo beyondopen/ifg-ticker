@@ -642,6 +642,10 @@
     "outlet": "MDR"
   },
   {
+    "url": "https://www.mdr.de/nachrichten/verteilseite1124-rss.xml",
+    "outlet": "MDR"
+  },
+  {
     "url": "https://www.br.de/nachrichten/aktuell-100~rss.xml",
     "outlet": "BR"
   },
@@ -788,6 +792,14 @@
   {
     "url": "https://www.wochenkurier.de/feed/",
     "outlet": "Wochenkurier"
+  },
+  {
+    "url": "http://www.wuppertaler-rundschau.de/lokales/feed.rss",
+    "outlet": "Wuppertaler Rundschau"
+  },
+  {
+    "url": "http://www.wuppertaler-rundschau.de/feed.rss",
+    "outlet": "Wuppertaler Rundschau"
   },
   {
     "url":
