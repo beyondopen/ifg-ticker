@@ -469,6 +469,14 @@
     "outlet": "FOCUS-Online"
   },
   {
+    "url": "https://rss.focus.de/regional/nordrhein-westfalen/",
+    "outlet": "FOCUS-Online"
+  },
+  {
+    "url": "https://www.insuedthueringen.de/rss/",
+    "outlet": "inSüdthüringen.de"
+  },
+  {
     "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
     "outlet": "Handelsblatt"
   },
