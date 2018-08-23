@@ -994,6 +994,31 @@
   },
   {
     "url":
+      "https://www.wp.de/staedte/menden/rss",
+    "outlet": "Westfalenpost"
+  },
+  {
+    "url":
+      "https://www.wp.de/rss",
+    "outlet": "Westfalenpost"
+  },
+  {
+    "url":
+      "https://www.wp.de/staedte/rss",
+    "outlet": "Westfalenpost"
+  },
+  {
+    "url":
+      "https://www.wp.de/politik/rss",
+    "outlet": "Westfalenpost"
+  },
+  {
+    "url":
+      "https://www.wp.de/wirtschaft/rss",
+    "outlet": "Westfalenpost"
+  },
+  {
+    "url":
       "https://www.butenunbinnen.de/feed/rss/nachrichten/neuste-nachrichten100.xml",
     "outlet": "buten un binnen"
   }
