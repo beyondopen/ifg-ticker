@@ -16,7 +16,8 @@ while : ; do
     timeout 5h /home/jfilter/.local/bin/trackthenews /home/jfilter/code/ifg-feed/ttnconfig/
     sleep 90
     
-    # keep only the last 100 entries. clean with a chance of 1/100.
+    # keep only the last 100k entries. clean with a chance of 1/100.
+    # never delete tweeted articles.
     if (( RANDOM % 100 ))
     then
       cd /home/jfilter/code/ifg-feed/ttnconfig/ &&
@@ -26,7 +27,7 @@ while : ; do
             from articles
             order by id desc
             limit 100000
-        )"
+        ) AND tweeted = 0" 
     fi
   fi
 done
