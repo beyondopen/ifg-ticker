@@ -15,5 +15,18 @@ while : ; do
     echo "timeline is sane. run trackthenews."
     timeout 5h /home/jfilter/.local/bin/trackthenews /home/jfilter/code/ifg-feed/ttnconfig/
     sleep 90
+    
+    # keep only the last 100 entries. clean with a chance of 1/100.
+    if (( RANDOM % 100 ))
+    then
+      cd /home/jfilter/code/ifg-feed/ttnconfig/ &&
+      sqlite3 -batch trackthenews.db "delete from articles
+        where id not in (
+            select id
+            from articles
+            order by id desc
+            limit 100000
+        )"
+    fi
   fi
 done
