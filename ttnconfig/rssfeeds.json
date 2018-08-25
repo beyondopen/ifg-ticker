@@ -478,15 +478,18 @@
   },
   {
     "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
-    "outlet": "Handelsblatt"
+    "outlet": "Handelsblatt",
+    "redirectLinks": true
   },
   {
     "url": "https://www.handelsblatt.com/contentexport/feed/politik",
-    "outlet": "Handelsblatt"
+    "outlet": "Handelsblatt",
+    "redirectLinks": true
   },
   {
     "url": "https://www.handelsblatt.com/contentexport/feed/top-themen",
-    "outlet": "Handelsblatt"
+    "outlet": "Handelsblatt",
+    "redirectLinks": true
   },
   {
     "url": "https://www.huffingtonpost.de/feeds/index.xml",
@@ -1001,28 +1004,23 @@
     "outlet": "MOZ - Nachrichten aus Bad Freienwalde"
   },
   {
-    "url":
-      "https://www.wp.de/staedte/menden/rss",
+    "url": "https://www.wp.de/staedte/menden/rss",
     "outlet": "Westfalenpost"
   },
   {
-    "url":
-      "https://www.wp.de/rss",
+    "url": "https://www.wp.de/rss",
     "outlet": "Westfalenpost"
   },
   {
-    "url":
-      "https://www.wp.de/staedte/rss",
+    "url": "https://www.wp.de/staedte/rss",
     "outlet": "Westfalenpost"
   },
   {
-    "url":
-      "https://www.wp.de/politik/rss",
+    "url": "https://www.wp.de/politik/rss",
     "outlet": "Westfalenpost"
   },
   {
-    "url":
-      "https://www.wp.de/wirtschaft/rss",
+    "url": "https://www.wp.de/wirtschaft/rss",
     "outlet": "Westfalenpost"
   },
   {
