@@ -29,7 +29,7 @@ def sane_timeline():
         cleaned_text = text
         if index_match >= 0:
             cleaned_text = text[index_match + 1:]
-        else
+        else:
             print('not able to match ":" in\n' + text)
         urls = re.findall(r'(https?://\S+)', cleaned_text)
         all_urls += urls
