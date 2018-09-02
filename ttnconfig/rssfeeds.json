@@ -611,6 +611,31 @@
     "outlet": "Köln Stadt-Anzeiger"
   },
   {
+    "url":
+      "https://www.ksta.de/blueprint/servlet/xml/ksta/23699862-asYahooFeed.xml",
+    "outlet": "Köln Stadt-Anzeiger"
+  },
+  {
+    "url":
+      "https://www.ksta.de/blueprint/servlet/xml/ksta/23699866-asYahooFeed.xml",
+    "outlet": "Köln Stadt-Anzeiger"
+  },
+  {
+    "url":
+      "https://www.ksta.de/blueprint/servlet/xml/ksta/23699864-asYahooFeed.xml",
+    "outlet": "Köln Stadt-Anzeiger"
+  },
+  {
+    "url":
+      "https://www.ksta.de/blueprint/servlet/xml/ksta/23699860-asYahooFeed.xml",
+    "outlet": "Köln Stadt-Anzeiger"
+  },
+  {
+    "url":
+      "https://www.ksta.de/blueprint/servlet/xml/ksta/23699858-asYahooFeed.xml",
+    "outlet": "Köln Stadt-Anzeiger"
+  },
+  {
     "url": "https://www.mainpost.de/storage/rss/rss/topnews.xml",
     "outlet": "Main Post"
   },
