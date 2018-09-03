@@ -481,6 +481,22 @@
     "outlet": "inSüdthüringen.de"
   },
   {
+    "url": "https://www.weser-kurier.de/pagefeed/2345.xml",
+    "outlet": "Weser Kurier"
+  },
+  {
+    "url": "https://www.weser-kurier.de/pagefeed/1001.xml",
+    "outlet": "Weser Kurier"
+  },
+  {
+    "url": "https://www.weser-kurier.de/pagefeed/1002.xml",
+    "outlet": "Weser Kurier"
+  },
+  {
+    "url": "https://www.weser-kurier.de/pagefeed/1004.xml",
+    "outlet": "Weser Kurier"
+  },
+  {
     "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
     "outlet": "Handelsblatt",
     "redirectLinks": true
