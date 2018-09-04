@@ -742,6 +742,11 @@
     "outlet": "Saarbrücker Zeitung"
   },
   {
+    "url":
+      "https://www.saarbruecker-zeitung.de/saarland/saarbruecken/?output=rss",
+    "outlet": "Saarbrücker Zeitung"
+  },
+  {
     "url": "https://www.watson.de/api/1.0/rss/index.xml",
     "outlet": "Watson"
   },
