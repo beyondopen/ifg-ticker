@@ -1077,5 +1077,13 @@
     "url":
       "https://www.butenunbinnen.de/feed/rss/nachrichten/neuste-nachrichten100.xml",
     "outlet": "buten un binnen"
+  },
+  {
+    "url": "https://www.nrz.de/rss",
+    "outlet": "NRZ"
+  },
+  {
+    "url": "https://www.nrz.de/staedte/dinslaken-huenxe-voerde/rss",
+    "outlet": "NRZ"
   }
 ]
