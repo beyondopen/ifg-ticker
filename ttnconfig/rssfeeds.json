@@ -1079,6 +1079,14 @@
     "outlet": "buten un binnen"
   },
   {
+    "url": "https://www.lokalkompass.de/feed/action/mode/realm/ID/0/",
+    "outlet": "Lokalkompass"
+  },
+  {
+    "url": "https://www.lokalkompass.de/feed/action/mode/state/ID/1/",
+    "outlet": "Lokalkompass"
+  },
+  {
     "url": "https://www.nrz.de/rss",
     "outlet": "NRZ"
   },
