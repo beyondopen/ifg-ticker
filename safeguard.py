@@ -25,9 +25,9 @@ def sane_timeline():
     for t in tweets:
         text = t['text']
         # it should always match but for some reason it isn't
-        index_match = text.index(':')
         cleaned_text = text
-        if index_match >= 0:
+        if ':' in text:
+            index_match = text.index(':')
             cleaned_text = text[index_match + 1:]
         else:
             print('not able to match ":" in\n' + text)
