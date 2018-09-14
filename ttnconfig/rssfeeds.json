@@ -1093,5 +1093,13 @@
   {
     "url": "https://www.nrz.de/staedte/dinslaken-huenxe-voerde/rss",
     "outlet": "NRZ"
+  },
+  {
+    "url": "https://www.proplanta.de/web/xml/proplanta_rssnewsfeed.xml",
+    "outlet": "Proplanta"
+  },
+  {
+    "url": "https://verbaende.com/rss_verbandsmeldungen.php",
+    "outlet": "Deutsches Verbände Forum"
   }
 ]
