@@ -1101,5 +1101,9 @@
   {
     "url": "https://verbaende.com/rss_verbandsmeldungen.php",
     "outlet": "Deutsches Verbände Forum"
+  },
+  {
+    "url": "https://www.dortmund24.de/feed/",
+    "outlet": "Dortmund24"
   }
 ]
