@@ -1105,5 +1105,13 @@
   {
     "url": "https://www.dortmund24.de/feed/",
     "outlet": "Dortmund24"
+  },
+  {
+    "url": "https://www.bundesjustizportal.de/feed/",
+    "outlet": "BundesJustizPortal"
+  },
+  {
+    "url": "https://www.report-k.de/rss/feed/article",
+    "outlet": "report-K (Internetzeitung Köln)"
   }
 ]
