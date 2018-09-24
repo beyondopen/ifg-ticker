@@ -21,3 +21,10 @@ test("urls are unique in rssfeeds.json", t => {
     "The following URLs are duplicated: " + Array.from(duplicates).join(" ")
   );
 });
+
+
+test("all urls start with https:// or http://", t => {
+  const rssfeeds = JSON.parse(fs.readFileSync("../ttnconfig/rssfeeds.json"));
+  const urls = rssfeeds.map(x => x.url);
+  t.true(urls.every(x=> x.startsWith('https://') || x.startsWith('http://')));
+});
