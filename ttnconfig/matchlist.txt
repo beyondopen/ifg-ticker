@@ -10,3 +10,5 @@ Aktenauskünfte
 Zugang zu Behördeninformation
 Gesetz zur Informationsfreiheit
 Einsicht in Behördendokumente
+Informationsfreiheitsanfrage
+Informationsfreiheits-Anfrage
