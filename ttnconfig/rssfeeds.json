@@ -1113,5 +1113,13 @@
   {
     "url": "https://www.report-k.de/rss/feed/article",
     "outlet": "report-K (Internetzeitung Köln)"
+  },
+  {
+    "url": "https://www.merkur.de/rssfeed.rdf",
+    "outlet": "Merkur"
+  },
+  {
+    "url": "https://www.merkur.de/politik/rssfeed.rdf",
+    "outlet": "Merkur"
   }
 ]
