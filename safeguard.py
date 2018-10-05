@@ -16,10 +16,18 @@ def sane_timeline():
     api_key, api_secret, oauth_token, oauth_secret = [config['twitter'][k] for k in (
         'api_key', 'api_secret', 'oauth_token', 'oauth_secret')]
 
-    twitter = Twython(api_key, api_secret,
-                      oauth_token, oauth_secret)
+    client_args = {
+        'timeout': 300,
+    }
 
-    tweets = twitter.get_user_timeline(count=200)
+    try:
+        twitter = Twython(api_key, api_secret,
+                      oauth_token, oauth_secret, client_args=client_args)
+        tweets = twitter.get_user_timeline(count=200)
+    except expression as identifier:
+        print('error while getting previous tweets, but whatever:', identifier)
+        return True
+    
     all_urls = []
 
     for t in tweets:
