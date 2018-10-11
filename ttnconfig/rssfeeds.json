@@ -52,6 +52,10 @@
     "outlet": "Stern"
   },
   {
+    "url": "https://www.stern.de/feed/standard/politik/",
+    "outlet": "Stern"
+  },
+  {
     "url": "https://correctiv.org/artikel/feeds/",
     "outlet": "Correctiv"
   },
