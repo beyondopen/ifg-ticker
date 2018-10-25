@@ -18,7 +18,7 @@ while : ; do
     
     # keep only the last 100k entries. clean with a chance of 1/100.
     # never delete tweeted articles.
-    if (( RANDOM % 100 ))
+    if (( RANDOM % 100 -eq 0 ))
     then
       cd /home/jfilter/code/ifg-feed/ttnconfig/ &&
       sqlite3 -batch trackthenews.db "delete from articles
