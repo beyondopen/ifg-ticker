@@ -1125,5 +1125,9 @@
   {
     "url": "https://www.merkur.de/politik/rssfeed.rdf",
     "outlet": "Merkur"
+  },
+  {
+    "url": "https://www.kontextwochenzeitung.de/rss.xml",
+    "outlet": "Kontext"
   }
 ]
