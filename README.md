@@ -3,7 +3,7 @@
 [English below](#english)
 
 Wir verlinken auf unserem Twitter-Account [@IFG_Ticker](https://twitter.com/IFG_Ticker) automatisiert Nachrichten, die sich auf
-[Informationsfreiheits](https://de.wikipedia.org/wiki/Informationsfreiheitsgesetz)- bzw. Tranzparenzgesetze beziehen.
+[Informationsfreiheits](https://de.wikipedia.org/wiki/Informationsfreiheitsgesetz)- bzw. Transparenzgesetze beziehen.
 
 Das US-amerikanische Vorbild ist [FOIA Feed](https://twitter.com/FOIAFeed) der [Feedom of Press Foundation](https://freedom.press/). Diese stellt den Code als [TrackTheNews](https://github.com/freedomofpress/trackthenews) Open Source bereit. Wir benutzen einen [Fork von TrackTheNews](https://github.com/jfilter/track-the-news), um ihn an die Besonderheiten der deutschen Sprache anzupassen.
 
