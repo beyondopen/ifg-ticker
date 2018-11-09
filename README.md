@@ -5,7 +5,7 @@
 Wir verlinken auf unserem Twitter-Account [@IFG_Ticker](https://twitter.com/IFG_Ticker) automatisiert Nachrichten, die sich auf
 [Informationsfreiheits](https://de.wikipedia.org/wiki/Informationsfreiheitsgesetz)- bzw. Tranzparenzgesetze beziehen.
 
-Das US-amerikanische Vorbild ist [FOIA Feed](https://twitter.com/FOIAFeed) der [Feedom of Press Foundation](https://freedom.press/). Diese stellt den Code als [TrackTheNews](https://github.com/freedomofpress/trackthenews) Open Source bereit.
+Das US-amerikanische Vorbild ist [FOIA Feed](https://twitter.com/FOIAFeed) der [Feedom of Press Foundation](https://freedom.press/). Diese stellt den Code als [TrackTheNews](https://github.com/freedomofpress/trackthenews) Open Source bereit. Wir benutzen einen [Fork von TrackTheNews](https://github.com/jfilter/track-the-news), um ihn an die Besonderheiten der deutschen Sprache anzupassen.
 
 ## Neue Nachrichtenquellen hinzufügen
 
@@ -30,7 +30,7 @@ Pull Requests sind gerne gesehen. Ansonsten kann man auch gerne ein neues [Issue
 
 <a name="english"/>
 
-This is the German version of the [FOIA Feed](https://twitter.com/FOIAFeed) of the [Feedom of Press Foundation](https://freedom.press/). They released their code as Open Source: [TrackTheNews](https://github.com/freedomofpress/trackthenews). The German [FOIA](<https://en.wikipedia.org/wiki/Freedom_of_Information_Act_(United_States)>) is called [Informationsfreiheitsgesetz](https://de.wikipedia.org/wiki/Informationsfreiheitsgesetz) (IFG).
+This is the German version of the [FOIA Feed](https://twitter.com/FOIAFeed) of the [Feedom of Press Foundation](https://freedom.press/). They released their code as Open Source: [TrackTheNews](https://github.com/freedomofpress/trackthenews) and we are using a [fork](https://github.com/jfilter/track-the-news). The German [FOIA](<https://en.wikipedia.org/wiki/Freedom_of_Information_Act_(United_States)>) is called [Informationsfreiheitsgesetz](https://de.wikipedia.org/wiki/Informationsfreiheitsgesetz) (IFG).
 
 ## License
 
