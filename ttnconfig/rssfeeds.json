@@ -1068,5 +1068,9 @@
   {
     "url": "https://www.kontextwochenzeitung.de/rss.xml",
     "outlet": "Kontext"
+  },
+  {
+    "url": "https://www.lto.de/rss/feed.xml",
+    "outlet": "Legal Tribune Online"
   }
 ]
