@@ -1080,5 +1080,17 @@
   {
     "url": "https://blogs.taz.de/mainfeed/",
     "outlet": "TAZ-Blogs"
+  },
+  {
+    "url": "https://www.morgenweb.de/feed/55-politik-rss-feed.xml",
+    "outlet": "Mannheimer Morgen"
+  },
+  {
+    "url": "https://kryptoszene.de/feed/",
+    "outlet": "Kryptoszene"
+  },
+  {
+    "url": "https://www.spreezeitung.de/feed/",
+    "outlet": "Spreezeitung"
   }
 ]
