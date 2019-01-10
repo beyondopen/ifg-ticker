@@ -1092,5 +1092,9 @@
   {
     "url": "https://www.spreezeitung.de/feed/",
     "outlet": "Spreezeitung"
+  },
+  {
+    "url": "https://www.abendblatt.de/?service=Rss",
+    "outlet": "Hamburger Abendblatt"
   }
 ]
