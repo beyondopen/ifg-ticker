@@ -324,6 +324,30 @@
     "outlet": "WAZ"
   },
   {
+    "url": "https://www.wz.de/feed.rss",
+    "outlet": "WZ"
+  },
+  {
+    "url": "https://www.wz.de/nrw/feed.rss",
+    "outlet": "WZ"
+  },
+  {
+    "url": "https://www.wz.de/politik/feed.rss",
+    "outlet": "WZ"
+  },
+  {
+    "url": "https://www.wz.de/panorama/feed.rss",
+    "outlet": "WZ"
+  },
+  {
+    "url": "https://www.wz.de/wirtschaft/feed.rss",
+    "outlet": "WZ"
+  },
+  {
+    "url": "https://www.wz.de/nrw/kreis-viersen/kempen-und-grefrath/feed.rss",
+    "outlet": "WZ"
+  },
+  {
     "url": "http://www.waz-online.de/rss/feed/az_schlagzeilen",
     "outlet": "Aller-Zeitung"
   },
