@@ -80,6 +80,14 @@
     "outlet": "Welt"
   },
   {
+    "url": "https://www.welt.de/feeds/topnews.rss",
+    "outlet": "Welt"
+  },
+  {
+    "url": "https://www.welt.de/feeds/section/politik.rss",
+    "outlet": "Welt"
+  },
+  {
     "url": "https://investigativ.welt.de/feed/",
     "outlet": "Welt"
   },
@@ -153,6 +161,14 @@
   },
   {
     "url": "https://www.nzz.ch/startseite.rss",
+    "outlet": "Neue Züricher Zeitung"
+  },
+  {
+    "url": "https://www.nzz.ch/recent.rss",
+    "outlet": "Neue Züricher Zeitung"
+  },
+  {
+    "url": "https://www.nzz.ch/international.rss",
     "outlet": "Neue Züricher Zeitung"
   },
   {
@@ -1120,5 +1136,9 @@
   {
     "url": "https://www.abendblatt.de/?service=Rss",
     "outlet": "Hamburger Abendblatt"
+  },
+  {
+    "url": "http://hessenschau.de/index.rss",
+    "outlet": "Hessenschau"
   }
 ]
