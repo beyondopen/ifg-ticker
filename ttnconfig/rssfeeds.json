@@ -56,7 +56,7 @@
     "outlet": "Stern"
   },
   {
-    "url": "https://correctiv.org/artikel/feeds/",
+    "url": "https://correctiv.org/feed/",
     "outlet": "Correctiv"
   },
   {
@@ -1120,5 +1120,9 @@
   {
     "url": "https://www.abendblatt.de/?service=Rss",
     "outlet": "Hamburger Abendblatt"
+  },
+  {
+    "url": "https://www.noz.de/rss/ressort/Osnabr%C3%BCck",
+    "outlet": "Neue Osnabrücker Zeitung"
   }
 ]
