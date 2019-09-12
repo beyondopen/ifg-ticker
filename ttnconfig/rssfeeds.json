@@ -1144,5 +1144,57 @@
   {
     "url": "https://www.noz.de/rss/ressort/Osnabr%C3%BCck",
     "outlet": "Neue Osnabrücker Zeitung"
+  },
+  {
+    "url": "http://www1.wdr.de/nachrichten/westfalen-lippe/uebersicht-westfalen-lippe-100.feed",
+    "outlet": "WDR"
+  },
+  {
+    "url": "http://www1.wdr.de/nachrichten/ruhrgebiet/uebersicht-ruhrgebiet-100.feed",
+    "outlet": "WDR"
+  },
+  {
+    "url": "http://www1.wdr.de/nachrichten/rheinland/uebersicht-rheinland-100.feed",
+    "outlet": "WDR"
+  },
+  {
+    "url": "http://www1.wdr.de/kultur/uebersicht-unterhaltung-100.feed",
+    "outlet": "WDR"
+  },
+  {
+    "url": "http://www1.wdr.de/kultur/uebersicht-kultur-100.feed",
+    "outlet": "WDR"
+  },
+  {
+    "url": "https://www1.wdr.de/kultur/kulturnachrichten/kulturnachrichten-106.feed",
+    "outlet": "WDR"
+  },
+  {
+    "url": "http://www1.wdr.de/verbraucher/uebersicht-verbraucher-100.feed",
+    "outlet": "WDR"
+  },
+  {
+    "url": "http://www1.wdr.de/wissen/uebersicht-sport-100.feed",
+    "outlet": "WDR"
+  },
+  {
+    "url": "http://www1.wdr.de/wissen/uebersicht-nachrichten-100.feed",
+    "outlet": "WDR"
+  },
+  {
+    "url": "http://www1.wdr.de/uebersicht-100.feed",
+    "outlet": "WDR"
+  },
+  {
+    "url": "http://www.sportschau.de/sportschauindex100.feed",
+    "outlet": "Sportschau"
+  },
+  {
+    "url": "http://podcast.wdr.de/radio/presseclubwdr5.xml",
+    "outlet": "Presseclub WDR"
+  },
+  {
+    "url": "http://podcast.wdr.de/hartaberfair.xml",
+    "outlet": "Hart aber Fair"
   }
 ]
