@@ -1196,5 +1196,9 @@
   {
     "url": "http://podcast.wdr.de/hartaberfair.xml",
     "outlet": "Hart aber Fair"
+  },
+  {
+    "url": "https://www.riffreporter.de/session/rss/free/",
+    "outlet": "RiffReporter"
   }
 ]
