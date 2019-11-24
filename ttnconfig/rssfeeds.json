@@ -1200,5 +1200,17 @@
   {
     "url": "https://www.riffreporter.de/session/rss/free/",
     "outlet": "RiffReporter"
+  },
+  {
+    "url": "https://www.antifainfoblatt.de/rss.xml",
+    "outlet": "Antifaschistisches Infoblatt"
+  },
+  {
+    "url": "http://www.lotta-magazin.de/feed",
+    "outlet": "Lotta Magazin"
+  },
+  {
+    "url": "https://www.der-rechte-rand.de/feed/",
+    "outlet": "der rechte rand"
   }
 ]
