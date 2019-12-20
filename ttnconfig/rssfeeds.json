@@ -1213,4 +1213,8 @@
     "url": "https://www.der-rechte-rand.de/feed/",
     "outlet": "der rechte rand"
   }
+  {
+    "url": "http://www.cilip.de/feed/",
+    "outlet": "CILIP Institut und Zeitschrift"
+  } 
 ]
