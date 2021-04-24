@@ -92,7 +92,7 @@
     "outlet": "Welt"
   },
   {
-    "url": "https://www.berliner-zeitung.de/blueprint/servlet/xml/berliner-zeitung/23701214-asYahooFeed.xml",
+    "url": "https://www.berliner-zeitung.de/feed.xml",
     "outlet": "Berliner Zeitung"
   },
   {
