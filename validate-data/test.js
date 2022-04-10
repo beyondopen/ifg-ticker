@@ -2,14 +2,14 @@ import fs from "fs";
 
 import test from "ava";
 
-test("urls are unique in rssfeeds.json", t => {
+test("urls are unique in rssfeeds.json", (t) => {
   const rssfeeds = JSON.parse(fs.readFileSync("../ttnconfig/rssfeeds.json"));
-  const urls = rssfeeds.map(x => x.url);
+  const urls = rssfeeds.map((x) => x.url);
 
   const set = new Set();
   const duplicates = new Set();
 
-  urls.forEach(x => {
+  urls.forEach((x) => {
     if (set.has(x)) {
       duplicates.add(x);
     }
@@ -22,9 +22,10 @@ test("urls are unique in rssfeeds.json", t => {
   );
 });
 
-
-test("all urls start with https:// or http://", t => {
+test("all urls start with https:// or http://", (t) => {
   const rssfeeds = JSON.parse(fs.readFileSync("../ttnconfig/rssfeeds.json"));
-  const urls = rssfeeds.map(x => x.url);
-  t.true(urls.every(x=> x.startsWith('https://') || x.startsWith('http://')));
+  const urls = rssfeeds.map((x) => x.url);
+  t.true(
+    urls.every((x) => x.startsWith("https://") || x.startsWith("http://"))
+  );
 });
