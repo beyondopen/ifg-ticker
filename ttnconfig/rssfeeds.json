@@ -1220,5 +1220,9 @@
   {
     "url": "https://aktentaucherin.de/feed",
     "outlet": "Aktentaucherin: Die Kanzlei für Informationsfreiheit"
+  },
+  {
+    "url": "https://www.badische-zeitung.de/index.html.rss",
+    "outlet": "Badische Zeitung"
   }
 ]
