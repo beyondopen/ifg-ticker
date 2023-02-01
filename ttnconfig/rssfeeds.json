@@ -1224,5 +1224,29 @@
   {
     "url": "https://www.badische-zeitung.de/index.html.rss",
     "outlet": "Badische Zeitung"
+  },
+  {
+    "url": "https://www.schwarzwaelder-bote.de/schwarzwald-baar.rss.feed",
+    "outlet": "Schwarzwälder Bote: Schwarzwald-Baar-Kreis"  
+  },
+  {
+    "url": "https://www.schwarzwaelder-bote.de/rottweil.rss.feed",
+    "outlet": "Schwarzwälder Bote: Kreis Rottweil"
+  },
+  {
+    "url": "https://www.schwarzwaelder-bote.de/zollernalb.rss.feed",
+    "outlet": "Schwarzwälder Bote: Zollernalbkreis"
+  },
+  {
+    "url": "https://www.schwarzwaelder-bote.de/freudenstadt.rss.feed",
+    "outlet": "Schwarzwälder Bote: Kreis Freudenstadt"
+  },
+  {
+    "url": "https://www.schwarzwaelder-bote.de/calw.rss.feed",
+    "outlet": "Schwarzwälder Bote: Kreis Calw"
+  },
+  {
+    "url": "https://www.schwarzwaelder-bote.de/ortenau.rss.feed",
+    "outlet": "Schwarzwälder Bote: Ortenaukreis"
   }
 ]
