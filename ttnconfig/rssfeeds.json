@@ -1,1252 +1,1012 @@
 [
   {
-    "url": "https://www.heise.de/newsticker/heise-atom.xml",
-    "outlet": "Heise Online"
+    "outlet": "Aktentaucherin: Die Kanzlei für Informationsfreiheit",
+    "url": "https://aktentaucherin.de/feed"
   },
   {
-    "url": "https://www.heise.de/tp/news-atom.xml",
-    "outlet": "Telepolis"
+    "outlet": "Antifaschistisches Infoblatt",
+    "url": "https://antifainfoblatt.de/rss.xml"
   },
   {
-    "url": "http://feeds.feedburner.com/Bildblog",
-    "outlet": "BILDblog"
+    "outlet": "BILDblog",
+    "url": "http://feeds.feedburner.com/Bildblog"
   },
   {
-    "url": "https://www.freitag.de/@@RSS",
-    "outlet": "Der Freitag"
+    "outlet": "BR",
+    "url": "https://nachrichtenfeeds.br.de/rss/nachrichten/seiten/QXAPqxI"
   },
   {
-    "url": "https://www.freitag.de/politik/@@RSS",
-    "outlet": "Der Freitag"
+    "outlet": "BR",
+    "url": "https://nachrichtenfeeds.br.de/rss/nachrichten/seiten/QXAPuSB"
   },
   {
-    "url": "https://www.freitag.de/kultur/@@RSS",
-    "outlet": "Der Freitag"
+    "outlet": "BR",
+    "url": "https://nachrichtenfeeds.br.de/rss/nachrichten/seiten/QXAPyRp"
   },
   {
-    "url": "https://www.freitag.de/community/neu/@@RSS",
-    "outlet": "Der Freitag Community"
+    "outlet": "BR",
+    "url": "https://www.ardalpha.de/wissen/ard-alpha-wissen-rss-feed-100~rss.xml"
   },
   {
-    "url": "http://newsfeed.zeit.de/all",
-    "outlet": "Zeit Online"
+    "outlet": "BR",
+    "url": "https://www.br.de/fernsehen/ard-alpha/ard-alpha106~rss.xml"
   },
   {
-    "url": "https://netzpolitik.org/feed/",
-    "outlet": "Netzpolitik.org"
+    "outlet": "BR",
+    "url": "https://www.br.de/puls/puls-homepage100~rss.xml"
   },
   {
-    "url": "http://www.spiegel.de/schlagzeilen/index.rss",
-    "outlet": "SPON"
+    "outlet": "BR",
+    "url": "https://www.br.de/radio/bayern1/bayern-eins108~rss.xml"
   },
   {
-    "url": "http://www.tagesspiegel.de/contentexport/feed/home",
-    "outlet": "Tagesspiegel"
+    "outlet": "BR",
+    "url": "https://www.br.de/radio/bayern2/bayern-zwei-120~rss.xml"
   },
   {
-    "url": "https://www.tagesspiegel.de/contentexport/feed/politik",
-    "outlet": "Tagesspiegel"
+    "outlet": "Badische Zeitung",
+    "url": "https://www.badische-zeitung.de/index.html.rss"
   },
   {
-    "url": "https://www.stern.de/feed/standard/alle-nachrichten/",
-    "outlet": "Stern"
+    "outlet": "Behörden Spiegel",
+    "url": "https://www.behoerden-spiegel.de/feed/"
   },
   {
-    "url": "https://www.stern.de/feed/standard/politik/",
-    "outlet": "Stern"
+    "outlet": "Berliner Zeitung",
+    "url": "https://www.berliner-zeitung.de/feed.xml"
   },
   {
-    "url": "https://correctiv.org/feed/",
-    "outlet": "Correctiv"
+    "outlet": "Bild",
+    "url": "https://www.bild.de/rssfeeds/vw-alles/vw-alles-26970192,dzbildplus=true,sort=1,teaserbildmobil=false,view=rss2,wtmc=ob.feed.bild.xml"
   },
   {
-    "url": "http://www.faz.net/rss/aktuell/politik/",
-    "outlet": "FAZ"
+    "outlet": "BundesJustizPortal",
+    "url": "https://www.bundesjustizportal.de/feed/"
   },
   {
-    "url": "http://www.faz.net/rss/aktuell/politik/inland/",
-    "outlet": "FAZ"
-  },
-  {
-    "url": "http://www.faz.net/rss/aktuell/",
-    "outlet": "FAZ"
-  },
-  {
-    "url": "http://www.tagesschau.de/xml/rss2/",
-    "outlet": "Tagesschau"
-  },
-  {
-    "url": "https://www.welt.de/feeds/latest.rss",
-    "outlet": "Welt"
-  },
-  {
-    "url": "https://www.welt.de/feeds/topnews.rss",
-    "outlet": "Welt"
-  },
-  {
-    "url": "https://www.welt.de/feeds/section/politik.rss",
-    "outlet": "Welt"
-  },
-  {
-    "url": "https://investigativ.welt.de/feed/",
-    "outlet": "Welt"
-  },
-  {
-    "url": "https://www.berliner-zeitung.de/feed.xml",
-    "outlet": "Berliner Zeitung"
-  },
-  {
-    "url": "http://www.taz.de/Politik/!p4615;rss/",
-    "outlet": "TAZ"
-  },
-  {
-    "url": "http://taz.de/!p4608;rss/",
-    "outlet": "TAZ"
-  },
-  {
-    "url": "http://www.taz.de/Berlin/!p4649;rss/",
-    "outlet": "TAZ"
-  },
-  {
-    "url": "http://www.taz.de/Gesellschaft/!p4611;rss/",
-    "outlet": "TAZ"
-  },
-  {
-    "url": "http://www.taz.de/Oeko/!p4610;rss/",
-    "outlet": "TAZ"
-  },
-  {
-    "url": "http://www.taz.de/Kultur/!p4639;rss/",
-    "outlet": "TAZ"
-  },
-  {
-    "url": "http://www.taz.de/Nord/!p4650;rss/",
-    "outlet": "TAZ"
-  },
-  {
-    "url": "https://rp-online.de/feed.rss",
-    "outlet": "RP Online"
-  },
-  {
-    "url": "https://rp-online.de/wirtschaft/feed.rss",
-    "outlet": "RP Online"
-  },
-  {
-    "url": "https://rp-online.de/panorama/feed.rss",
-    "outlet": "RP Online"
-  },
-  {
-    "url": "https://rp-online.de/digitales/feed.rss",
-    "outlet": "RP Online"
-  },
-  {
-    "url": "https://rp-online.de/politik/feed.rss",
-    "outlet": "RP Online"
-  },
-  {
-    "url": "http://rss.sueddeutsche.de/app/service/rss/alles/index.rss?output=rss",
-    "outlet": "Süddeutsche Zeitung"
-  },
-  {
-    "url": "http://rss.sueddeutsche.de/rss/Politik",
-    "outlet": "Süddeutsche Zeitung"
-  },
-  {
-    "url": "http://rss.sueddeutsche.de/rss/Topthemen",
-    "outlet": "Süddeutsche Zeitung"
-  },
-  {
-    "url": "https://www.tah.de/rss-feed.html",
-    "outlet": "Täglicher Anzeiger"
-  },
-  {
-    "url": "https://www.nzz.ch/startseite.rss",
-    "outlet": "Neue Züricher Zeitung"
-  },
-  {
-    "url": "https://www.nzz.ch/recent.rss",
-    "outlet": "Neue Züricher Zeitung"
-  },
-  {
-    "url": "https://www.nzz.ch/international.rss",
-    "outlet": "Neue Züricher Zeitung"
-  },
-  {
-    "url": "http://www.sz-online.de/Sachsen.rss",
-    "outlet": "Sächsische Zeitung"
-  },
-  {
-    "url": "http://www.sz-online.de/Multimedia.rss",
-    "outlet": "Sächsische Zeitung"
-  },
-  {
-    "url": "http://www.sz-online.de/Kultur.rss",
-    "outlet": "Sächsische Zeitung"
-  },
-  {
-    "url": "http://www.sz-online.de/Panorama.rss",
-    "outlet": "Sächsische Zeitung"
-  },
-  {
-    "url": "http://www.sz-online.de/Wissen.rss",
-    "outlet": "Sächsische Zeitung"
-  },
-  {
-    "url": "http://www.sz-online.de/Wirtschaft.rss",
-    "outlet": "Sächsische Zeitung"
-  },
-  {
-    "url": "http://www.sz-online.de/Politik.rss",
-    "outlet": "Sächsische Zeitung"
-  },
-  {
-    "url": "http://www.svz.de/rss",
-    "outlet": "Schweriner Volkszeitung"
-  },
-  {
-    "url": "https://www.metronaut.de/feed/",
-    "outlet": "Metronaut"
-  },
-  {
-    "url": "http://www.bento.de/rss/feed.rss",
-    "outlet": "Bento"
-  },
-  {
-    "url": "https://ze.tt/feed/",
-    "outlet": "ze.tt"
-  },
-  {
-    "url": "http://www.prignitzer.de/rss",
-    "outlet": "Der Prignitzer"
-  },
-  {
-    "url": "http://www.nnn.de/rss",
-    "outlet": "Norddeutsche Neueste Nachrichten"
-  },
-  {
-    "url": "http://www.ostsee-zeitung.de/rss/feed/oz_mvaktuell",
-    "outlet": "Ostsee Zeitung"
-  },
-  {
-    "url": "http://www.ostsee-zeitung.de/rss/feed/oz_politik",
-    "outlet": "Ostsee Zeitung"
-  },
-  {
-    "url": "http://www.ostsee-zeitung.de/rss/feed/oz_wirtschaft",
-    "outlet": "Ostsee Zeitung"
-  },
-  {
-    "url": "http://www.ostsee-zeitung.de/rss/feed/oz_kultur",
-    "outlet": "Ostsee Zeitung"
-  },
-  {
-    "url": "https://www.volksstimme.de/section/rss&Profile=1123&UseProfile=1&Title=Deutschland&ParagraphCount=99",
-    "outlet": "Volksstimme"
-  },
-  {
-    "url": "https://www.volksstimme.de/section/rss&Profile=1124&UseProfile=1&Title=Vermischtes&ParagraphCount=99",
-    "outlet": "Volksstimme"
-  },
-  {
-    "url": "https://www.volksstimme.de/section/rss&Profile=1125&UseProfile=1&Title=Wirtschaft&ParagraphCount=99",
-    "outlet": "Volksstimme"
-  },
-  {
-    "url": "https://www.volksstimme.de/section/rss&Profile=1126&UseProfile=1&Title=Politik&ParagraphCount=99",
-    "outlet": "Volksstimme"
-  },
-  {
-    "url": "https://www.volksstimme.de/section/rss&Profile=1127&UseProfile=1&Title=Ausland&ParagraphCount=99",
-    "outlet": "Volksstimme"
-  },
-  {
-    "url": "https://www.volksstimme.de/section/rss&Profile=1091&UseProfile=1&Title=Kultur&ParagraphCount=99",
-    "outlet": "Volksstimme"
-  },
-  {
-    "url": "https://www.volksstimme.de/section/rss&Profile=1130&UseProfile=1&Title=Ratgeber&ParagraphCount=99",
-    "outlet": "Volksstimme"
-  },
-  {
-    "url": "https://www.volksstimme.de/section/rss&Profile=1050&UseProfile=1&Title=Volksstimme%20Campus&ParagraphCount=99",
-    "outlet": "Volksstimme"
-  },
-  {
-    "url": "https://www.behoerden-spiegel.de/feed/",
-    "outlet": "Behörden Spiegel"
-  },
-  {
-    "url": "http://www.mz-web.de/feed/yahoo.rss",
-    "outlet": "Mitteldeutsche Zeitung"
-  },
-  {
-    "url": "http://www.lvz.de/rss/feed/lvz_nachrichten",
-    "outlet": "Leipziger Volkszeitung"
-  },
-  {
-    "url": "http://www.dnn.de/rss/feed/dnn_nachrichten",
-    "outlet": "Dresdner Neueste Nachrichten"
-  },
-  {
-    "url": "https://www.jungewelt.de/feeds/newsticker.rss",
-    "outlet": "Junge Welt"
-  },
-  {
-    "url": "https://www.neues-deutschland.de/rss/aktuell.php",
-    "outlet": "Neues Deutschland"
-  },
-  {
-    "url": "https://www.neues-deutschland.de/rss/neues-deutschland.xml",
-    "outlet": "Neues Deutschland"
-  },
-  {
-    "url": "https://meedia.de/feed/",
-    "outlet": "Meedia"
-  },
-  {
-    "url": "https://rss.golem.de/rss.php?feed=RSS2.0",
-    "outlet": "Golem"
-  },
-  {
-    "url": "https://www.egovernment-computing.de/rss/news.xml",
-    "outlet": "eGovernment Computing"
-  },
-  {
-    "url": "http://www.deutschlandfunk.de/die-nachrichten.353.de.rss",
-    "outlet": "Deutschlandfunk"
-  },
-  {
-    "url": "https://www.n-tv.de/rss",
-    "outlet": "N-TV"
-  },
-  {
-    "url": "https://www.kreiszeitung.de/rssfeed.rdf",
-    "outlet": "Kreiszeitung"
-  },
-  {
-    "url": "https://fragdenstaat.de/blog/feed/",
-    "outlet": "FragDenStaat-Blog"
-  },
-  {
-    "url": "https://www.t-online.de/themen/rss/",
-    "outlet": "T-Online"
-  },
-  {
-    "url": "https://www.wiwo.de/contentexport/feed/rss/schlagzeilen",
-    "outlet": "Wirtschaftswoche"
-  },
-  {
-    "url": "http://www.waz-online.de/rss/feed/waz_schlagzeilen",
-    "outlet": "WAZ"
-  },
-  {
-    "url": "https://www.wz.de/feed.rss",
-    "outlet": "WZ"
-  },
-  {
-    "url": "https://www.wz.de/nrw/feed.rss",
-    "outlet": "WZ"
-  },
-  {
-    "url": "https://www.wz.de/politik/feed.rss",
-    "outlet": "WZ"
-  },
-  {
-    "url": "https://www.wz.de/panorama/feed.rss",
-    "outlet": "WZ"
-  },
-  {
-    "url": "https://www.wz.de/wirtschaft/feed.rss",
-    "outlet": "WZ"
-  },
-  {
-    "url": "https://www.wz.de/nrw/kreis-viersen/kempen-und-grefrath/feed.rss",
-    "outlet": "WZ"
-  },
-  {
-    "url": "http://www.waz-online.de/rss/feed/az_schlagzeilen",
-    "outlet": "Aller-Zeitung"
-  },
-  {
-    "url": "http://www.turi2.de/feed/",
-    "outlet": "turi2"
-  },
-  {
-    "url": "https://www.freie-radios.net/portal/podcast.php?rss",
-    "outlet": "Freie Radios"
-  },
-  {
-    "url": "https://jungle.world/rss.xml",
-    "outlet": "Jungle World"
-  },
-  {
-    "url": "https://www.presseportal.de/rss/politik.rss2",
-    "outlet": "Presseportal.de"
-  },
-  {
-    "url": "https://www.presseportal.de/rss/medien-kultur.rss2",
-    "outlet": "Presseportal.de"
-  },
-  {
-    "url": "https://www.presseportal.de/rss/wirtschaft.rss2",
-    "outlet": "Presseportal.de"
-  },
-  {
-    "url": "https://www.presseportal.de/rss/soziales.rss2",
-    "outlet": "Presseportal.de"
-  },
-  {
-    "url": "https://www.presseportal.de/rss/umwelt.rss2",
-    "outlet": "Presseportal.de"
-  },
-  {
-    "url": "https://www.presseportal.de/rss/wissen-bildung.rss2",
-    "outlet": "Presseportal.de"
-  },
-  {
-    "url": "https://www.presseportal.de/rss/netzwelt.rss2",
-    "outlet": "Presseportal.de"
-  },
-  {
-    "url": "https://www.presseportal.de/rss/handel.rss2",
-    "outlet": "Presseportal.de"
-  },
-  {
-    "url": "https://www.presseportal.de/rss/finanzen.rss2",
-    "outlet": "Presseportal.de"
-  },
-  {
-    "url": "https://www.presseportal.de/rss/bau-immobilien.rss2",
-    "outlet": "Presseportal.de"
-  },
-  {
-    "url": "https://www.presseportal.de/rss/panorama.rss2",
-    "outlet": "Presseportal.de"
-  },
-  {
-    "url": "https://www.presseportal.de/rss/auto-verkehr.rss2",
-    "outlet": "Presseportal.de"
-  },
-  {
-    "url": "https://www.presseportal.de/rss/gesundheit-medizin.rss2",
-    "outlet": "Presseportal.de"
-  },
-  {
-    "url": "http://rss.dw.com/xml/rss-de-all",
-    "outlet": "Deutsche Welle"
-  },
-  {
-    "url": "https://www.buzzfeed.com/de.xml",
     "outlet": "BuzzFeed",
-    "redirectLinks": true
+    "redirectLinks": true,
+    "url": "https://www.buzzfeed.com/index.xml"
   },
   {
-    "url": "https://www.buzzfeed.com/de/news.xml",
     "outlet": "BuzzFeed",
-
-    "redirectLinks": true
+    "redirectLinks": true,
+    "url": "https://www.buzzfeed.com/world.xml"
   },
   {
-    "url": "http://www.journalist-magazin.de/feed/2",
-    "outlet": "journalist"
+    "outlet": "BuzzFeed",
+    "redirectLinks": true,
+    "url": "https://www.buzzfeed.de/recherchen/rssfeed.xml"
   },
   {
-    "url": "http://www.journalist-magazin.de/taxonomy/term/1/all/feed",
-    "outlet": "journalist"
+    "outlet": "CILIP Institut und Zeitschrift",
+    "url": "https://www.cilip.de/feed/"
   },
   {
-    "url": "http://www.journalist-magazin.de/taxonomy/term/31/all/feed",
-    "outlet": "journalist"
+    "outlet": "Campact-Blog",
+    "url": "https://blog.campact.de/feed/"
   },
   {
-    "url": "http://www.journalist-magazin.de/taxonomy/term/2/all/feed",
-    "outlet": "journalist"
+    "outlet": "Cicero",
+    "url": "https://www.cicero.de/rss.xml"
   },
   {
-    "url": "https://www.nachdenkseiten.de/?feed=rss2",
-    "outlet": "NachDenkSeiten"
+    "outlet": "Correctiv",
+    "url": "https://correctiv.org/feed/"
   },
   {
-    "url": "https://derstandard.at/?page=rss&ressort=Seite1",
-    "outlet": "derStandard.at"
+    "outlet": "Der Freitag Community",
+    "url": "https://www.freitag.de/community/neu/@@RSS"
   },
   {
-    "url": "http://derstandard.at/?page=rss&ressort=Inland",
-    "outlet": "derStandard.at"
+    "outlet": "Der Freitag",
+    "url": "https://www.freitag.de/@@RSS"
   },
   {
-    "url": "http://derstandard.at/?page=rss&ressort=International",
-    "outlet": "derStandard.at"
+    "outlet": "Der Freitag",
+    "url": "https://www.freitag.de/kultur/@@RSS"
   },
   {
-    "url": "https://www.abgeordnetenwatch.de/rss/blog.xml",
-    "outlet": "abgeordnetenwatch.de"
+    "outlet": "Der Freitag",
+    "url": "https://www.freitag.de/politik/@@RSS"
   },
   {
-    "url": "https://www.juedische-allgemeine.de/rss",
-    "outlet": "Jüdische Allgemeine"
+    "outlet": "Deutsche Welle",
+    "url": "https://rss.dw.com/xml/rss-de-all"
   },
   {
-    "url": "https://www.evangelisch.de/rss/inhalte.rss",
-    "outlet": "evangelisch.de"
+    "outlet": "Deutschlandfunk",
+    "url": "https://www.deutschlandfunk.de/nachrichten-100.rss"
   },
   {
-    "url": "https://www.queer.de/rss/newsticker2.0.komplett.xml",
-    "outlet": "queer.de"
+    "outlet": "Die Tagespost (Katholische Zeitung)",
+    "url": "https://www.die-tagespost.de/storage/rss/rss/die-tagespost-komplett.xml"
   },
   {
-    "url": "https://www.die-tagespost.de/storage/rss/rss/politik.xml",
-    "outlet": "Die Tagespost (Katholische Zeitung)"
+    "outlet": "Dresdner Neueste Nachrichten",
+    "url": "https://www.dnn.de/arc/outboundfeeds/rss/tags_slug/dresden-stadtpolitik/"
   },
   {
-    "url": "https://blog.campact.de/feed/",
-    "outlet": "Campact-Blog"
+    "outlet": "Dresdner Neueste Nachrichten",
+    "url": "https://www.dnn.de/arc/outboundfeeds/rss/tags_slug/dresden/"
   },
   {
-    "url": "https://rss.focus.de/fol/XML/rss_folnews.xml",
-    "outlet": "FOCUS-Online"
+    "outlet": "Dresdner Neueste Nachrichten",
+    "url": "https://www.dnn.de/arc/outboundfeeds/rss/tags_slug/umland/"
   },
   {
-    "url": "https://rss.focus.de/regional/nordrhein-westfalen/",
-    "outlet": "FOCUS-Online"
+    "outlet": "Emma",
+    "url": "https://www.emma.de/rss.xml"
   },
   {
-    "url": "https://rss.focus.de/politik/",
-    "outlet": "FOCUS-Online"
+    "outlet": "FAZ",
+    "url": "https://www.faz.net/rss/aktuell/"
   },
   {
-    "url": "https://www.insuedthueringen.de/rss/",
-    "outlet": "inSüdthüringen.de"
+    "outlet": "FAZ",
+    "url": "https://www.faz.net/rss/aktuell/politik/"
   },
   {
-    "url": "https://www.weser-kurier.de/pagefeed/2345.xml",
-    "outlet": "Weser Kurier"
+    "outlet": "FAZ",
+    "url": "https://www.faz.net/rss/aktuell/politik/inland/"
   },
   {
-    "url": "https://www.weser-kurier.de/pagefeed/1001.xml",
-    "outlet": "Weser Kurier"
+    "outlet": "FOCUS-Online",
+    "url": "https://rss.focus.de/fol/XML/rss_folnews.xml"
   },
   {
-    "url": "https://www.weser-kurier.de/pagefeed/1002.xml",
-    "outlet": "Weser Kurier"
+    "outlet": "FOCUS-Online",
+    "url": "https://rss.focus.de/politik/"
   },
   {
-    "url": "https://www.weser-kurier.de/pagefeed/1004.xml",
-    "outlet": "Weser Kurier"
+    "outlet": "FOCUS-Online",
+    "url": "https://rss.focus.de/regional/nordrhein-westfalen/"
   },
   {
-    "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
+    "outlet": "FragDenStaat-Blog",
+    "url": "https://fragdenstaat.de/blog/feed/"
+  },
+  {
+    "outlet": "Frankfurter Rundschau",
+    "url": "www.fr.de/politik/rssfeed.rdf"
+  },
+  {
+    "outlet": "Frankfurter Rundschau",
+    "url": "www.fr.de/rssfeed.rdf"
+  },
+  {
+    "outlet": "Freie Presse",
+    "url": "https://www.freiepresse.de/rss/rss_chemnitz.php"
+  },
+  {
+    "outlet": "Freie Presse",
+    "url": "https://www.freiepresse.de/rss/rss_erzgebirge.php"
+  },
+  {
+    "outlet": "Freie Presse",
+    "url": "https://www.freiepresse.de/rss/rss_kultur.php"
+  },
+  {
+    "outlet": "Freie Presse",
+    "url": "https://www.freiepresse.de/rss/rss_mittelsachsen.php"
+  },
+  {
+    "outlet": "Freie Presse",
+    "url": "https://www.freiepresse.de/rss/rss_politik.php"
+  },
+  {
+    "outlet": "Freie Presse",
+    "url": "https://www.freiepresse.de/rss/rss_sport.php"
+  },
+  {
+    "outlet": "Freie Presse",
+    "url": "https://www.freiepresse.de/rss/rss_vogtland.php"
+  },
+  {
+    "outlet": "Freie Presse",
+    "url": "https://www.freiepresse.de/rss/rss_wirtschaft.php"
+  },
+  {
+    "outlet": "Freie Presse",
+    "url": "https://www.freiepresse.de/rss/rss_zwickau.php"
+  },
+  {
+    "outlet": "Freie Radios",
+    "url": "https://www.freie-radios.net/portal/podcast.php?rss"
+  },
+  {
+    "outlet": "Gesellschaft für Freiheitsrechte",
+    "url": "https://freiheitsrechte.org/feed.rss"
+  },
+  {
+    "outlet": "Golem",
+    "url": "https://rss.golem.de/rss.php?feed=RSS2.0"
+  },
+  {
+    "outlet": "Hamburger Abendblatt",
+    "url": "https://www.abendblatt.de/rss"
+  },
+  {
     "outlet": "Handelsblatt",
-    "redirectLinks": true
+    "redirectLinks": true,
+    "url": "https://www.handelsblatt.com/contentexport/feed/politik"
   },
   {
-    "url": "https://www.handelsblatt.com/contentexport/feed/politik",
     "outlet": "Handelsblatt",
-    "redirectLinks": true
+    "redirectLinks": true,
+    "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen"
   },
   {
-    "url": "https://www.handelsblatt.com/contentexport/feed/top-themen",
     "outlet": "Handelsblatt",
-    "redirectLinks": true
+    "redirectLinks": true,
+    "url": "https://www.handelsblatt.com/contentexport/feed/top-themen"
   },
   {
-    "url": "https://www.huffingtonpost.de/feeds/index.xml",
-    "outlet": "Huffington Post"
+    "outlet": "Hart aber Fair",
+    "url": "https://www1.wdr.de/daserste/hartaberfair/indexhartaberfair100.feed"
   },
   {
-    "url": "http://www.fr.de/?_XML=rss",
-    "outlet": "Frankfurter Rundschau"
+    "outlet": "Heise Online",
+    "url": "https://www.heise.de/rss/heise-atom.xml"
   },
   {
-    "url": "https://www.fr.de/politik/?_XML=rss",
-    "outlet": "Frankfurter Rundschau"
+    "outlet": "Hessenschau",
+    "url": "https://www.hessenschau.de/index.rss"
   },
   {
-    "url": "https://www.freiepresse.de/rss/rss_chemnitz.php",
-    "outlet": "Freie Presse"
+    "outlet": "Hildesheimer Presse",
+    "url": "https://hildesheimer-presse.de/feed/"
   },
   {
-    "url": "https://www.freiepresse.de/rss/rss_erzgebirge.php",
-    "outlet": "Freie Presse"
+    "outlet": "Huffington Post",
+    "url": "https://chaski.huffpost.com/us/auto/vertical/politics"
   },
   {
-    "url": "https://www.freiepresse.de/rss/rss_mittelsachsen.php",
-    "outlet": "Freie Presse"
+    "outlet": "Huffington Post",
+    "url": "https://chaski.huffpost.com/us/auto/vertical/technology"
   },
   {
-    "url": "https://www.freiepresse.de/rss/rss_vogtland.php",
-    "outlet": "Freie Presse"
+    "outlet": "Junge Welt",
+    "url": "https://www.jungewelt.de/feeds/newsticker.rss"
   },
   {
-    "url": "https://www.freiepresse.de/rss/rss_zwickau.php",
-    "outlet": "Freie Presse"
+    "outlet": "Jungle World",
+    "url": "https://jungle.world/rss.xml"
   },
   {
-    "url": "https://www.freiepresse.de/rss/rss_politik.php",
-    "outlet": "Freie Presse"
+    "outlet": "Jüdische Allgemeine",
+    "url": "https://www.juedische-allgemeine.de/feed/"
   },
   {
-    "url": "https://www.freiepresse.de/rss/rss_wirtschaft.php",
-    "outlet": "Freie Presse"
+    "outlet": "Kontext",
+    "url": "https://www.kontextwochenzeitung.de/feed.rss"
   },
   {
-    "url": "https://www.freiepresse.de/rss/rss_kultur.php",
-    "outlet": "Freie Presse"
+    "outlet": "Kontraste",
+    "url": "https://www.rbb-online.de/doku/kontraste-die-reporter/kontraste---die-reporter.xml/allitems=true/feed=rss/path=middleColumnList%21teaserboxgroup_1738510196%21middleColumnList%21teaserbox.xml"
   },
   {
-    "url": "https://www.freiepresse.de/rss/rss_sport.php",
-    "outlet": "Freie Presse"
+    "outlet": "Kreiszeitung",
+    "url": "https://www.kreiszeitung.de/rssfeed.rdf"
   },
   {
-    "url": "http://www.kyffhaeuser-nachrichten.de/_rss/news_rss_iso.php",
-    "outlet": "Kyffhäuser Nachrichten"
+    "outlet": "Kryptoszene",
+    "url": "https://kryptoszene.de/feed/"
   },
   {
-    "url": "https://www.swr.de/~rss/home/swr-de-homepage-100.xml",
-    "outlet": "SWR"
+    "outlet": "Kyffhäuser Nachrichten",
+    "url": "https://www.kyffhaeuser-nachrichten.de/_rss/news_rss_iso.php"
   },
   {
-    "url": "https://www.swr.de/~rss/swraktuell/swraktuell-100.xml",
-    "outlet": "SWR"
+    "outlet": "Köln Stadt-Anzeiger",
+    "url": "https://feed.ksta.de/feed/rss/koeln/koelner-innenstadt/index.rss"
   },
   {
-    "url": "https://www.swr.de/~rss/swraktuell/swraktuell-bw-100.xml",
-    "outlet": "SWR"
+    "outlet": "Köln Stadt-Anzeiger",
+    "url": "https://feed.ksta.de/feed/rss/kultur-medien/index.rss"
   },
   {
-    "url": "https://www.swr.de/~rss/swraktuell/swraktuell-rp-100.xml",
-    "outlet": "SWR"
+    "outlet": "Köln Stadt-Anzeiger",
+    "url": "https://feed.ksta.de/feed/rss/panorama/index.rss"
   },
   {
-    "url": "https://www.swr.de/~rss/sport/sport-aktuell-102.xml",
-    "outlet": "SWR"
+    "outlet": "Köln Stadt-Anzeiger",
+    "url": "https://feed.ksta.de/feed/rss/politik/index.rss"
   },
   {
-    "url": "https://www.swr.de/export/rss/wissen",
-    "outlet": "SWR"
+    "outlet": "Köln Stadt-Anzeiger",
+    "url": "https://feed.ksta.de/feed/rss/wirtschaft/index.rss"
   },
   {
-    "url": "http://www.planet-schule.de/rss.xml",
-    "outlet": "SWR"
+    "outlet": "Legal Tribune Online",
+    "url": "https://www.lto.de/rss/feed.xml"
   },
   {
-    "url": "http://www.ndr.de/home/index-rss.xml",
-    "outlet": "NDR"
+    "outlet": "Leipziger Volkszeitung",
+    "url": "https://www.lvz.de/arc/outboundfeeds/rss/category/der-osten/"
   },
   {
-    "url": "http://www.ndr.de/nachrichten/niedersachsen/index-rss.xml",
-    "outlet": "NDR"
+    "outlet": "Leipziger Volkszeitung",
+    "url": "https://www.lvz.de/arc/outboundfeeds/rss/category/mitteldeutschland/"
   },
   {
-    "url": "http://www.ndr.de/nachrichten/schleswig-holstein/index-rss.xml",
-    "outlet": "NDR"
+    "outlet": "Leipziger Volkszeitung",
+    "url": "https://www.lvz.de/arc/outboundfeeds/rss/category/politik/regional/"
   },
   {
-    "url": "http://www.ndr.de/nachrichten/mecklenburg-vorpommern/index-rss.xml",
-    "outlet": "NDR"
+    "outlet": "Leipziger Volkszeitung",
+    "url": "https://www.lvz.de/arc/outboundfeeds/rss/tags_slug/leipzig/"
   },
   {
-    "url": "http://www.ndr.de/nachrichten/hamburg/index-rss.xml",
-    "outlet": "NDR"
+    "outlet": "Lokalkompass",
+    "url": "https://www.lokalkompass.de/rss"
   },
   {
-    "url": "https://www.ksta.de/blueprint/servlet/xml/ksta/23699840-asYahooFeed.xml",
-    "outlet": "Köln Stadt-Anzeiger"
+    "outlet": "Lotta Magazin",
+    "url": "https://www.lotta-magazin.de/rss.xml"
   },
   {
-    "url": "https://www.ksta.de/blueprint/servlet/xml/ksta/23699416-asYahooFeed.xml",
-    "outlet": "Köln Stadt-Anzeiger"
+    "outlet": "MDR",
+    "url": "https://www.mdr.de/nachrichten/index-rss.xml"
   },
   {
-    "url": "https://www.ksta.de/blueprint/servlet/xml/ksta/23699296-asYahooFeed.xml",
-    "outlet": "Köln Stadt-Anzeiger"
+    "outlet": "MDR",
+    "url": "https://www.mdr.de/nachrichten/nachrichten100-rss.xml"
   },
   {
-    "url": "https://www.ksta.de/blueprint/servlet/xml/ksta/23699862-asYahooFeed.xml",
-    "outlet": "Köln Stadt-Anzeiger"
+    "outlet": "MV Online",
+    "url": "https://www.mv-online.de/Schlagzeilen.rss"
   },
   {
-    "url": "https://www.ksta.de/blueprint/servlet/xml/ksta/23699866-asYahooFeed.xml",
-    "outlet": "Köln Stadt-Anzeiger"
+    "outlet": "Main Post",
+    "url": "https://www.mainpost.de/storage/rss/rss/topnews.xml"
   },
   {
-    "url": "https://www.ksta.de/blueprint/servlet/xml/ksta/23699864-asYahooFeed.xml",
-    "outlet": "Köln Stadt-Anzeiger"
+    "outlet": "Mannheimer Morgen",
+    "url": "https://www.mannheimer-morgen.de/REST/frontend/render/feed/55/undefined/300"
   },
   {
-    "url": "https://www.ksta.de/blueprint/servlet/xml/ksta/23699860-asYahooFeed.xml",
-    "outlet": "Köln Stadt-Anzeiger"
+    "outlet": "Merkur",
+    "url": "https://www.merkur.de/politik/rssfeed.rdf"
   },
   {
-    "url": "https://www.ksta.de/blueprint/servlet/xml/ksta/23699858-asYahooFeed.xml",
-    "outlet": "Köln Stadt-Anzeiger"
+    "outlet": "Merkur",
+    "url": "https://www.merkur.de/rssfeed.rdf"
   },
   {
-    "url": "https://www.mainpost.de/storage/rss/rss/topnews.xml",
-    "outlet": "Main Post"
+    "outlet": "Metronaut",
+    "url": "https://www.metronaut.de/feed/"
   },
   {
-    "url": "http://www.rbb24.de/aktuell/index.xml/feed=rss.xml",
-    "outlet": "rbb"
+    "outlet": "Monitor",
+    "url": "https://www1.wdr.de/daserste/monitor/indexmonitor100.feed"
   },
   {
-    "url": "http://www.rbb24.de/politik/index.xml/feed=rss.xml",
-    "outlet": "rbb"
+    "outlet": "Motherboard (Vice)",
+    "url": "https://www.vice.com/de/rss/topic/motherboard"
   },
   {
-    "url": "http://www.rbb24.de/wirtschaft/index.xml/feed=rss.xml",
-    "outlet": "rbb"
+    "outlet": "N-TV",
+    "url": "https://www.n-tv.de/rss"
   },
   {
-    "url": "https://www.ardmediathek.de/tv/Kontraste/Sendung?documentId=431796&bcastId=431796&rss=true",
-    "outlet": "Kontraste"
+    "outlet": "NDR",
+    "url": "https://www.ndr.de/index-rss.xml"
   },
   {
-    "url": "https://www.ardmediathek.de/tv/Monitor/Sendung?documentId=438224&bcastId=438224&rss=true",
-    "outlet": "Monitor"
+    "outlet": "NDR",
+    "url": "https://www.ndr.de:443/nachrichten/hamburg/index-rss.xml"
   },
   {
-    "url": "http://feeds.feedburner.com/taurillon/de",
-    "outlet": "treffpunkteuropa.de"
+    "outlet": "NDR",
+    "url": "https://www.ndr.de:443/nachrichten/mecklenburg-vorpommern/index-rss.xml"
   },
   {
-    "url": "https://www.wired.de/feed/latest",
-    "outlet": "WIRED"
+    "outlet": "NDR",
+    "url": "https://www.ndr.de:443/nachrichten/niedersachsen/index-rss.xml"
+  },
+  {
+    "outlet": "NDR",
+    "url": "https://www.ndr.de:443/nachrichten/schleswig-holstein/index-rss.xml"
+  },
+  {
+    "outlet": "NRZ",
+    "url": "https://www.nrz.de/kultur/rss"
+  },
+  {
+    "outlet": "NRZ",
+    "url": "https://www.nrz.de/politik/rss"
+  },
+  {
+    "outlet": "NRZ",
+    "url": "https://www.nrz.de/region/niederrhein/rss"
+  },
+  {
+    "outlet": "NRZ",
+    "url": "https://www.nrz.de/rss"
+  },
+  {
+    "outlet": "NRZ",
+    "url": "https://www.nrz.de/wirtschaft/rss"
+  },
+  {
+    "outlet": "Netzpolitik.org",
+    "url": "https://netzpolitik.org/feed/"
+  },
+  {
+    "outlet": "Neue Osnabrücker Zeitung",
+    "url": "https://www.noz.de/lokales/osnabrueck/rss"
+  },
+  {
+    "outlet": "Neue Züricher Zeitung",
+    "url": "https://www.nzz.ch/international.rss"
+  },
+  {
+    "outlet": "Neue Züricher Zeitung",
+    "url": "https://www.nzz.ch/recent.rss"
+  },
+  {
+    "outlet": "Neue Züricher Zeitung",
+    "url": "https://www.nzz.ch/startseite.rss"
+  },
+  {
+    "outlet": "Neues Deutschland",
+    "url": "https://www.nd-aktuell.de/rss/aktuell.php"
+  },
+  {
+    "outlet": "Norddeutsche Neueste Nachrichten",
+    "url": "https://www.nnn.de/rss"
+  },
+  {
+    "outlet": "Ostsee Zeitung",
+    "url": "https://www.ostsee-zeitung.de/arc/outboundfeeds/rss/category/der-osten/"
+  },
+  {
+    "outlet": "Ostsee Zeitung",
+    "url": "https://www.ostsee-zeitung.de/arc/outboundfeeds/rss/category/kultur/"
+  },
+  {
+    "outlet": "Ostsee Zeitung",
+    "url": "https://www.ostsee-zeitung.de/arc/outboundfeeds/rss/category/mecklenburg-vorpommern/"
+  },
+  {
+    "outlet": "Ostsee Zeitung",
+    "url": "https://www.ostsee-zeitung.de/arc/outboundfeeds/rss/category/politik/"
+  },
+  {
+    "outlet": "Ostsee Zeitung",
+    "url": "https://www.ostsee-zeitung.de/arc/outboundfeeds/rss/category/wirtschaft/"
+  },
+  {
+    "outlet": "Politico",
+    "url": "https://www.politico.eu/de/feed/"
+  },
+  {
+    "outlet": "Presseclub WDR",
+    "url": "https://www1.wdr.de/mediathek/audio/wdr5/wdr5-presseclub/presseclub304.podcast"
+  },
+  {
+    "outlet": "Presseportal.de",
+    "url": "https://www.presseportal.de/rss/auto-verkehr.rss2"
+  },
+  {
+    "outlet": "Presseportal.de",
+    "url": "https://www.presseportal.de/rss/bau-immobilien.rss2"
+  },
+  {
+    "outlet": "Presseportal.de",
+    "url": "https://www.presseportal.de/rss/finanzen.rss2"
+  },
+  {
+    "outlet": "Presseportal.de",
+    "url": "https://www.presseportal.de/rss/gesundheit-medizin.rss2"
+  },
+  {
+    "outlet": "Presseportal.de",
+    "url": "https://www.presseportal.de/rss/handel.rss2"
+  },
+  {
+    "outlet": "Presseportal.de",
+    "url": "https://www.presseportal.de/rss/medien-kultur.rss2"
+  },
+  {
+    "outlet": "Presseportal.de",
+    "url": "https://www.presseportal.de/rss/netzwelt.rss2"
+  },
+  {
+    "outlet": "Presseportal.de",
+    "url": "https://www.presseportal.de/rss/panorama.rss2"
+  },
+  {
+    "outlet": "Presseportal.de",
+    "url": "https://www.presseportal.de/rss/politik.rss2"
+  },
+  {
+    "outlet": "Presseportal.de",
+    "url": "https://www.presseportal.de/rss/soziales.rss2"
+  },
+  {
+    "outlet": "Presseportal.de",
+    "url": "https://www.presseportal.de/rss/umwelt.rss2"
+  },
+  {
+    "outlet": "Presseportal.de",
+    "url": "https://www.presseportal.de/rss/wirtschaft.rss2"
+  },
+  {
+    "outlet": "Presseportal.de",
+    "url": "https://www.presseportal.de/rss/wissen-bildung.rss2"
+  },
+  {
+    "outlet": "Proplanta",
+    "url": "https://www.proplanta.de/web/xml/proplanta_rssnewsfeed.xml"
+  },
+  {
+    "outlet": "RP Online",
+    "url": "https://rp-online.de/digitales/feed.rss"
+  },
+  {
+    "outlet": "RP Online",
+    "url": "https://rp-online.de/feed.rss"
+  },
+  {
+    "outlet": "RP Online",
+    "url": "https://rp-online.de/panorama/feed.rss"
+  },
+  {
+    "outlet": "RP Online",
+    "url": "https://rp-online.de/politik/feed.rss"
+  },
+  {
+    "outlet": "RP Online",
+    "url": "https://rp-online.de/wirtschaft/feed.rss"
+  },
+  {
+    "outlet": "Reporter ohne Grenzen",
+    "url": "https://www.reporter-ohne-grenzen.de/?type=100"
+  },
+  {
+    "outlet": "Rhein-Neckar-Zeitung",
+    "url": "https://www.rnz.de/feed/115-coronapodcast.xml"
+  },
+  {
+    "outlet": "Rhein-Neckar-Zeitung",
+    "url": "https://www.rnz.de/feed/133-RL_Regioticker_Free.xml"
+  },
+  {
+    "outlet": "Rhein-Neckar-Zeitung",
+    "url": "https://www.rnz.de/feed/154-RL_Politik_Hintergrund_free.xml"
+  },
+  {
+    "outlet": "Rhein-Neckar-Zeitung",
+    "url": "https://www.rnz.de/feed/160-RL_Wirtschaft_regional_free.xml"
+  },
+  {
+    "outlet": "RiffReporter",
+    "url": "https://riff.media/de/rss"
+  },
+  {
+    "outlet": "Ruhr24",
+    "url": "https://ruhr24.de/rssfeed.rdf"
+  },
+  {
+    "outlet": "SPON",
+    "url": "https://www.spiegel.de/schlagzeilen/index.rss"
+  },
+  {
+    "outlet": "SWR",
+    "url": "https://www.planet-schule.de/~rss/index.xml"
+  },
+  {
+    "outlet": "SWR",
+    "url": "https://www.swr.de/~rss/home/swr-de-homepage-100.xml"
+  },
+  {
+    "outlet": "SWR",
+    "url": "https://www.swr.de/~rss/sport/sport-aktuell-102.xml"
+  },
+  {
+    "outlet": "SWR",
+    "url": "https://www.swr.de/~rss/swraktuell/index.xml"
+  },
+  {
+    "outlet": "SWR",
+    "url": "https://www.swr.de/~rss/swraktuell/swraktuell-100.xml"
+  },
+  {
+    "outlet": "SWR",
+    "url": "https://www.swr.de/~rss/swraktuell/swraktuell-bw-100.xml"
+  },
+  {
+    "outlet": "SWR",
+    "url": "https://www.swr.de/~rss/swraktuell/swraktuell-rp-100.xml"
+  },
+  {
+    "outlet": "Schwarzwälder Bote: Kreis Calw",
+    "url": "https://www.schwarzwaelder-bote.de/calw.rss.feed"
+  },
+  {
+    "outlet": "Schwarzwälder Bote: Kreis Freudenstadt",
+    "url": "https://www.schwarzwaelder-bote.de/freudenstadt.rss.feed"
+  },
+  {
+    "outlet": "Schwarzwälder Bote: Kreis Rottweil",
+    "url": "https://www.schwarzwaelder-bote.de/rottweil.rss.feed"
+  },
+  {
+    "outlet": "Schwarzwälder Bote: Ortenaukreis",
+    "url": "https://www.schwarzwaelder-bote.de/ortenau.rss.feed"
+  },
+  {
+    "outlet": "Schwarzwälder Bote: Schwarzwald-Baar-Kreis",
+    "url": "https://www.schwarzwaelder-bote.de/schwarzwald-baar.rss.feed"
+  },
+  {
+    "outlet": "Schwarzwälder Bote: Zollernalbkreis",
+    "url": "https://www.schwarzwaelder-bote.de/zollernalb.rss.feed"
+  },
+  {
+    "outlet": "Schweriner Volkszeitung",
+    "url": "https://www.svz.de/rss"
+  },
+  {
+    "outlet": "Sportschau",
+    "url": "https://www.sportschau.de/index~atom.xml"
+  },
+  {
+    "outlet": "Spreezeitung",
+    "url": "https://www.spreezeitung.de/feed/"
+  },
+  {
+    "outlet": "Stern",
+    "url": "https://www.stern.de/feed/standard/alle-nachrichten/"
+  },
+  {
+    "outlet": "Stern",
+    "url": "https://www.stern.de/feed/standard/politik/"
+  },
+  {
+    "outlet": "Stiftung Warentest",
+    "url": "https://www.test.de/rss/alles/"
+  },
+  {
+    "outlet": "Sächsische Zeitung",
+    "url": "https://www.saechsische.de/rss/deutschland-welt"
+  },
+  {
+    "outlet": "Sächsische Zeitung",
+    "url": "https://www.saechsische.de/rss/feuilleton"
+  },
+  {
+    "outlet": "Sächsische Zeitung",
+    "url": "https://www.saechsische.de/rss/politik"
+  },
+  {
+    "outlet": "Sächsische Zeitung",
+    "url": "https://www.saechsische.de/rss/sachsen"
+  },
+  {
+    "outlet": "Sächsische Zeitung",
+    "url": "https://www.saechsische.de/rss/wirtschaft"
+  },
+  {
+    "outlet": "Süddeutsche Zeitung",
+    "url": "https://rss.sueddeutsche.de/alles"
+  },
+  {
+    "outlet": "Süddeutsche Zeitung",
+    "url": "https://rss.sueddeutsche.de/rss/Politik"
+  },
+  {
+    "outlet": "Süddeutsche Zeitung",
+    "url": "https://rss.sueddeutsche.de/rss/Topthemen"
+  },
+  {
+    "outlet": "T-Online",
+    "url": "https://feeds.t-online.de/rss/"
+  },
+  {
+    "outlet": "TAZ",
+    "url": "https://taz.de/!p4608;rss/"
+  },
+  {
+    "outlet": "TAZ",
+    "url": "https://taz.de/!p4611;rss/"
+  },
+  {
+    "outlet": "TAZ",
+    "url": "https://taz.de/Berlin/!p4649;rss/"
+  },
+  {
+    "outlet": "TAZ",
+    "url": "https://taz.de/Kultur/!p4639;rss/"
+  },
+  {
+    "outlet": "TAZ",
+    "url": "https://taz.de/Nord/!p4650;rss/"
+  },
+  {
+    "outlet": "TAZ",
+    "url": "https://taz.de/Oeko/!p4610;rss/"
+  },
+  {
+    "outlet": "TAZ",
+    "url": "https://taz.de/Politik/!p4615;rss/"
+  },
+  {
+    "outlet": "TAZ",
+    "url": "https://taz.de/Themen-des-Tages/!p15;rss/"
+  },
+  {
+    "outlet": "TAZ-Blogs",
+    "url": "https://blogs.taz.de/mainfeed/"
+  },
+  {
+    "outlet": "Tagesschau",
+    "url": "https://www.tagesschau.de/infoservices/alle-meldungen-100~rss2.xml"
+  },
+  {
+    "outlet": "Tagesspiegel",
+    "url": "https://www.tagesspiegel.de/contentexport/feed/home"
+  },
+  {
+    "outlet": "Tagesspiegel",
+    "url": "https://www.tagesspiegel.de/contentexport/feed/politik"
+  },
+  {
+    "outlet": "Telepolis",
+    "url": "https://www.telepolis.de/news-atom.xml"
+  },
+  {
+    "outlet": "Thüringsche Landeszeitung",
+    "url": "https://www.tlz.de/rss"
+  },
+  {
+    "outlet": "Täglicher Anzeiger",
+    "url": "https://www.tah.de/arc/outboundfeeds/rss/"
+  },
+  {
+    "outlet": "Vice",
+    "url": "https://www.vice.com/de/rss"
+  },
+  {
+    "outlet": "WAZ",
+    "url": "https://www.waz-online.de/arc/outboundfeeds/rss/"
+  },
+  {
+    "outlet": "WDR",
+    "url": "https://www1.wdr.de/kultur/kulturnachrichten/kulturnachrichten-106.feed"
+  },
+  {
+    "outlet": "WDR",
+    "url": "https://www1.wdr.de/kultur/uebersicht-kultur-100.feed"
+  },
+  {
+    "outlet": "WDR",
+    "url": "https://www1.wdr.de/kultur/uebersicht-unterhaltung-100.feed"
+  },
+  {
+    "outlet": "WDR",
+    "url": "https://www1.wdr.de/nachrichten/rheinland/uebersicht-rheinland-100.feed"
+  },
+  {
+    "outlet": "WDR",
+    "url": "https://www1.wdr.de/nachrichten/ruhrgebiet/uebersicht-ruhrgebiet-100.feed"
+  },
+  {
+    "outlet": "WDR",
+    "url": "https://www1.wdr.de/nachrichten/westfalen-lippe/uebersicht-westfalen-lippe-100.feed"
+  },
+  {
+    "outlet": "WDR",
+    "url": "https://www1.wdr.de/uebersicht-100.feed"
+  },
+  {
+    "outlet": "WDR",
+    "url": "https://www1.wdr.de/verbraucher/uebersicht-verbraucher-100.feed"
+  },
+  {
+    "outlet": "WDR",
+    "url": "https://www1.wdr.de/wissen/uebersicht-nachrichten-100.feed"
+  },
+  {
+    "outlet": "WDR",
+    "url": "https://www1.wdr.de/wissen/uebersicht-sport-100.feed"
+  },
+  {
+    "outlet": "WIRED",
+    "url": "https://nautilus.condenastdigital.de/api/feed/gq-auto-technik"
+  },
+  {
+    "outlet": "WZ",
+    "url": "https://www.wz.de/nrw/feed.rss"
+  },
+  {
+    "outlet": "WZ",
+    "url": "https://www.wz.de/nrw/kreis-viersen/kempen-und-grefrath/feed.rss"
+  },
+  {
+    "outlet": "WZ",
+    "url": "https://www.wz.de/panorama/feed.rss"
+  },
+  {
+    "outlet": "WZ",
+    "url": "https://www.wz.de/politik/feed.rss"
+  },
+  {
+    "outlet": "WZ",
+    "url": "https://www.wz.de/wirtschaft/feed.rss"
+  },
+  {
+    "outlet": "Watson",
+    "url": "https://www.watson.de/api/1.0/rss/index.xml"
+  },
+  {
+    "outlet": "Welt",
+    "url": "https://www.welt.de/feeds/latest.rss"
+  },
+  {
+    "outlet": "Welt",
+    "url": "https://www.welt.de/feeds/section/politik.rss"
+  },
+  {
+    "outlet": "Welt",
+    "url": "https://www.welt.de/feeds/topnews.rss"
+  },
+  {
+    "outlet": "Weser Kurier",
+    "url": "https://www.weser-kurier.de/?view=rss"
+  },
+  {
+    "outlet": "Weser Kurier",
+    "url": "https://www.weser-kurier.de/bremen/?view=rss"
+  },
+  {
+    "outlet": "Weser Kurier",
+    "url": "https://www.weser-kurier.de/bremen/politik/?view=rss"
+  },
+  {
+    "outlet": "Weser Kurier",
+    "url": "https://www.weser-kurier.de/deutschland-welt/?view=rss"
+  },
+  {
+    "outlet": "Westdeutsche Zeitung",
+    "url": "https://www.wz.de/feed.rss"
+  },
+  {
+    "outlet": "Westfalenpost",
+    "url": "https://www.wp.de/politik/rss"
+  },
+  {
+    "outlet": "Westfalenpost",
+    "url": "https://www.wp.de/rss"
+  },
+  {
+    "outlet": "Westfalenpost",
+    "url": "https://www.wp.de/staedte/menden/rss"
+  },
+  {
+    "outlet": "Westfalenpost",
+    "url": "https://www.wp.de/staedte/rss"
+  },
+  {
+    "outlet": "Westfalenpost",
+    "url": "https://www.wp.de/wirtschaft/rss"
+  },
+  {
+    "outlet": "Wirtschaftswoche",
+    "url": "https://www.wiwo.de/contentexport/feed/rss/schlagzeilen"
+  },
+  {
+    "outlet": "Wochenkurier",
+    "url": "https://www.wochenkurier.de/feed/"
+  },
+  {
+    "outlet": "Wuppertaler Rundschau",
+    "url": "https://www.wuppertaler-rundschau.de/feed.rss"
+  },
+  {
+    "outlet": "Wuppertaler Rundschau",
+    "url": "https://www.wuppertaler-rundschau.de/lokales/feed.rss"
+  },
+  {
+    "outlet": "ZOLLERN-ALB-KURIER",
+    "url": "https://www.zak.de/News/Balingen.rss"
+  },
+  {
+    "outlet": "Zeit Online",
+    "url": "http://newsfeed.zeit.de/all"
+  },
+  {
+    "outlet": "abgeordnetenwatch.de",
+    "url": "https://www.abgeordnetenwatch.de/recherchen/feed"
+  },
+  {
+    "outlet": "analyse & kritik",
+    "url": "https://www.akweb.de/feed/"
+  },
+  {
+    "outlet": "buten un binnen",
+    "url": "https://www.butenunbinnen.de/feed/rss/nachrichten/neuste-nachrichten100.xml"
+  },
+  {
+    "outlet": "der rechte rand",
+    "url": "https://www.der-rechte-rand.de/feed/"
+  },
+  {
+    "outlet": "derStandard.at",
+    "url": "https://www.derstandard.at/rss"
+  },
+  {
+    "outlet": "derStandard.at",
+    "url": "https://www.derstandard.at/rss/inland"
+  },
+  {
+    "outlet": "derStandard.at",
+    "url": "https://www.derstandard.at/rss/international "
+  },
+  {
+    "outlet": "derStandard.at",
+    "url": "https://www.derstandard.at/rss/wirtschaft"
+  },
+  {
+    "outlet": "eGovernment Computing",
+    "url": "https://www.egovernment.de/rss/news.xml"
+  },
+  {
+    "outlet": "evangelisch.de",
+    "url": "https://www.evangelisch.de/rss/inhalte.rss"
+  },
+  {
+    "outlet": "inSüdthüringen.de",
+    "url": "https://www.insuedthueringen.de/.rss.feed"
+  },
+  {
+    "outlet": "queer.de",
+    "url": "https://www.queer.de/rss/newsticker2.0.komplett.xml"
+  },
+  {
+    "outlet": "rbb",
+    "url": "http://www.rbb24.de/aktuell/index.xml/feed=rss.xml"
+  },
+  {
+    "outlet": "rbb",
+    "url": "http://www.rbb24.de/politik/index.xml/feed=rss.xml"
+  },
+  {
+    "outlet": "rbb",
+    "url": "http://www.rbb24.de/wirtschaft/index.xml/feed=rss.xml"
+  },
+  {
+    "outlet": "report-K (Internetzeitung Köln)",
+    "url": "https://www.report-k.de/feed/"
+  },
+  {
+    "outlet": "treffpunkteuropa.de",
+    "url": "http://feeds.feedburner.com/taurillon/de"
+  },
+  {
+    "outlet": "turi2",
+    "url": "https://www.turi2.de/feed/"
+  },
+  {
+    "outlet": "ze.tt",
+    "url": "https://newsfeed.zeit.de/zett/index"
   },
   {
     "url": "https://missy-magazine.de/feed/",
     "outlet": "Missy Magazin"
   },
   {
-    "url": "https://www.emma.de/rss.xml",
-    "outlet": "Emma"
+    "url": "https://turi2.de/feed/",
+    "outlet": "turi2"
   },
   {
-    "url": "https://www.mdr.de/nachrichten/nachrichten100-rss.xml",
-    "outlet": "MDR"
+    "outlet": "Ärzte Zeitung",
+    "url": "https://www.aerztezeitung.de/News.rss"
   },
   {
-    "url": "https://www.mdr.de/nachrichten/verteilseite1124-rss.xml",
-    "outlet": "MDR"
-  },
-  {
-    "url": "https://www.br.de/nachrichten/aktuell-100~rss.xml",
-    "outlet": "BR"
-  },
-  {
-    "url": "https://freiheitsrechte.org/feed/",
-    "outlet": "Gesellschaft für Freiheitsrechte"
-  },
-  {
-    "url": "https://www.reporter-ohne-grenzen.de/feed.rss",
-    "outlet": "Reporter ohne Grenzen"
-  },
-  {
-    "url": "http://zak.de/home/?type=rss",
-    "outlet": "ZOLLERN-ALB-KURIER"
-  },
-  {
-    "url": "https://www.rnz.de/feed/6-regionalticker.xml",
-    "outlet": "Rhein-Neckar-Zeitung"
-  },
-  {
-    "url": "http://www.pnn.de/rss.xml",
-    "outlet": "PNN"
-  },
-  {
-    "url": "http://www.pnn.de/politik/rss.xml",
-    "outlet": "PNN"
-  },
-  {
-    "url": "http://www.pnn.de/potsdam/rss.xml",
-    "outlet": "PNN"
-  },
-  {
-    "url": "https://www.freischreiber.de/feed/",
-    "outlet": "Freischreiber"
-  },
-  {
-    "url": "https://www.saarbruecker-zeitung.de/?output=rss",
-    "outlet": "Saarbrücker Zeitung"
-  },
-  {
-    "url": "https://www.saarbruecker-zeitung.de/saarland/saarbruecken/?output=rss",
-    "outlet": "Saarbrücker Zeitung"
-  },
-  {
-    "url": "https://www.watson.de/api/1.0/rss/index.xml",
-    "outlet": "Watson"
-  },
-  {
-    "url": "https://www.tlz.de/startseite/-/rss/Bxy1/feed.rss",
-    "outlet": "Thüringsche Landeszeitung"
-  },
-  {
-    "url": "https://uebermedien.de/feed/",
-    "outlet": "Übermedien"
-  },
-  {
-    "url": "https://hildesheimer-presse.de/feed/",
-    "outlet": "Hildesheimer Presse"
-  },
-  {
-    "url": "https://www.aerztezeitung.de/extras/rss/?cat=politik_gesellschaft",
-    "outlet": "Ärzte Zeitung"
-  },
-  {
-    "url": "https://www.test.de/rss/alles/",
-    "outlet": "Stiftung Warentest"
-  },
-  {
-    "url": "https://motherboard.vice.com/de/rss",
-    "outlet": "Motherboard (Vice)"
-  },
-  {
-    "url": "https://www.vice.com/de/rss",
-    "outlet": "Vice"
-  },
-  {
-    "url": "https://www.akweb.de/rss.xml",
-    "outlet": "analyse & kritik"
-  },
-  {
-    "url": "https://www.politico.eu/de/feed/",
-    "outlet": "Politico"
-  },
-  {
-    "url": "https://www.cicero.de/rss.xml",
-    "outlet": "Cicero"
-  },
-  {
-    "url": "http://www.wz.de/cmlink/rss-wz-wuppertal-1.484894",
-    "outlet": "Westdeutsche Zeitung"
-  },
-  {
-    "url": "http://www.wz.de/cmlink/rss-wz-krefeld-1.484896",
-    "outlet": "Westdeutsche Zeitung"
-  },
-  {
-    "url": "http://www.wz.de/cmlink/rss-wz-dusseldorf-1.516254",
-    "outlet": "Westdeutsche Zeitung"
-  },
-  {
-    "url": "http://www.wz.de/cmlink/wz-rss-moenchengladbach-1.184848",
-    "outlet": "Westdeutsche Zeitung"
-  },
-  {
-    "url": "http://www.wz.de/cmlink/wz-rss-kreis-mettmann-1.198678",
-    "outlet": "Westdeutsche Zeitung"
-  },
-  {
-    "url": "http://www.wz.de/cmlink/wz-rss-kreis-viersen-1.206888",
-    "outlet": "Westdeutsche Zeitung"
-  },
-  {
-    "url": "http://www.wz.de/cmlink/wz-rss-rhein-kreis-neuss-1.205203",
-    "outlet": "Westdeutsche Zeitung"
-  },
-  {
-    "url": "http://www.wz.de/cmlink/wz-rss-burscheid-1.194973",
-    "outlet": "Westdeutsche Zeitung"
-  },
-  {
-    "url": "http://www.wz.de/cmlink/wz-rss-sprockhovel-1.204604",
-    "outlet": "Westdeutsche Zeitung"
-  },
-  {
-    "url": "http://www.wz.de/cmlink/wz-rss-politik-1.481772",
-    "outlet": "Westdeutsche Zeitung"
-  },
-  {
-    "url": "http://www.wz.de/cmlink/wz-rss-wirtschaft-1.482779",
-    "outlet": "Westdeutsche Zeitung"
-  },
-  {
-    "url": "http://www.wz.de/cmlink/wz-rss-kultur-1.484779",
-    "outlet": "Westdeutsche Zeitung"
-  },
-  {
-    "url": "http://www.wz.de/cmlink/wz-rss-panorama-1.481969",
-    "outlet": "Westdeutsche Zeitung"
-  },
-  {
-    "url": "http://www.wz.de/cmlink/wz-rss-gesellschaft-1.482772",
-    "outlet": "Westdeutsche Zeitung"
-  },
-  {
-    "url": "https://www.wochenkurier.de/feed/",
-    "outlet": "Wochenkurier"
-  },
-  {
-    "url": "http://www.wuppertaler-rundschau.de/lokales/feed.rss",
-    "outlet": "Wuppertaler Rundschau"
-  },
-  {
-    "url": "http://www.wuppertaler-rundschau.de/feed.rss",
-    "outlet": "Wuppertaler Rundschau"
-  },
-  {
-    "url": "https://www.bild.de/rssfeeds/vw-alles/vw-alles-26970192,dzbildplus=true,sort=1,teaserbildmobil=false,view=rss2,wtmc=ob.feed.bild.xml",
-    "outlet": "Bild"
-  },
-  {
-    "url": "https://moz.de/nc/service/weiteres/rss-feeds/?tx_rsmretrescorss_pi1%5Bshow%5D=1",
-    "outlet": "MOZ - Nachrichten aus Brandenburg"
-  },
-  {
-    "url": "https://moz.de/nc/service/weiteres/rss-feeds/?tx_rsmretrescorss_pi1%5Bshow%5D=2",
-    "outlet": "MOZ - Nachrichten aus Berlin"
-  },
-  {
-    "url": "https://moz.de/nc/service/weiteres/rss-feeds/?tx_rsmretrescorss_pi1%5Bshow%5D=3",
-    "outlet": "MOZ - Nachrichten aus Deutschland"
-  },
-  {
-    "url": "https://moz.de/nc/service/weiteres/rss-feeds/?tx_rsmretrescorss_pi1%5Bshow%5D=6",
-    "outlet": "MOZ - Nachrichten aller Lokalredaktionen"
-  },
-  {
-    "url": "https://moz.de/nc/service/weiteres/rss-feeds/?tx_rsmretrescorss_pi1%5Bshow%5D=13",
-    "outlet": "MOZ - Blitzer in Brandenburg"
-  },
-  {
-    "url": "https://moz.de/nc/service/weiteres/rss-feeds/?tx_rsmretrescorss_pi1%5Bshow%5D=79",
-    "outlet": "MOZ - ArcelorMittal"
-  },
-  {
-    "url": "https://moz.de/nc/service/weiteres/rss-feeds/?tx_rsmretrescorss_pi1%5Bshow%5D=83",
-    "outlet": "MOZ - BER"
-  },
-  {
-    "url": "https://moz.de/nc/service/weiteres/rss-feeds/?tx_rsmretrescorss_pi1%5Bshow%5D=85",
-    "outlet": "MOZ - Kulturnachrichten"
-  },
-  {
-    "url": "https://moz.de/nc/service/weiteres/rss-feeds/?tx_rsmretrescorss_pi1%5Bshow%5D=86",
-    "outlet": "MOZ - Weltnachrichten"
-  },
-  {
-    "url": "https://moz.de/nc/service/weiteres/rss-feeds/?tx_rsmretrescorss_pi1%5Bshow%5D=87",
-    "outlet": "MOZ - Nachrichten aus dem Bereich Vermischtes"
-  },
-  {
-    "url": "https://moz.de/nc/service/weiteres/rss-feeds/?tx_rsmretrescorss_pi1%5Bshow%5D=88",
-    "outlet": "MOZ - Wirtschaftsnachrichten"
-  },
-  {
-    "url": "https://moz.de/nc/service/weiteres/rss-feeds/?tx_rsmretrescorss_pi1%5Bshow%5D=89",
-    "outlet": "MOZ - Sportnachrichten"
-  },
-  {
-    "url": "https://moz.de/nc/service/weiteres/rss-feeds/?tx_rsmretrescorss_pi1%5Bshow%5D=90",
-    "outlet": "MOZ - Nachrichten aus Hennigsdorf"
-  },
-  {
-    "url": "https://moz.de/nc/service/weiteres/rss-feeds/?tx_rsmretrescorss_pi1%5Bshow%5D=91",
-    "outlet": "MOZ - Nachrichten aus Gransee"
-  },
-  {
-    "url": "https://moz.de/nc/service/weiteres/rss-feeds/?tx_rsmretrescorss_pi1%5Bshow%5D=92",
-    "outlet": "MOZ - Nachrichten aus Belzig"
-  },
-  {
-    "url": "https://moz.de/nc/service/weiteres/rss-feeds/?tx_rsmretrescorss_pi1%5Bshow%5D=93",
-    "outlet": "MOZ - Nachrichten aus Falkensee"
-  },
-  {
-    "url": "https://moz.de/nc/service/weiteres/rss-feeds/?tx_rsmretrescorss_pi1%5Bshow%5D=94",
-    "outlet": "MOZ - Nachrichten aus Rathenow"
-  },
-  {
-    "url": "https://moz.de/nc/service/weiteres/rss-feeds/?tx_rsmretrescorss_pi1%5Bshow%5D=95",
-    "outlet": "MOZ - Nachrichten aus Brandenburg/Havel"
-  },
-  {
-    "url": "https://moz.de/nc/service/weiteres/rss-feeds/?tx_rsmretrescorss_pi1%5Bshow%5D=96",
-    "outlet": "MOZ - Nachrichten aus Neuruppin"
-  },
-  {
-    "url": "https://moz.de/nc/service/weiteres/rss-feeds/?tx_rsmretrescorss_pi1%5Bshow%5D=97",
-    "outlet": "MOZ - Nachrichten aus Oranienburg"
-  },
-  {
-    "url": "https://moz.de/nc/service/weiteres/rss-feeds/?tx_rsmretrescorss_pi1%5Bshow%5D=98",
-    "outlet": "MOZ - Nachrichten aus Frankfurt (Oder)"
-  },
-  {
-    "url": "https://moz.de/nc/service/weiteres/rss-feeds/?tx_rsmretrescorss_pi1%5Bshow%5D=99",
-    "outlet": "MOZ - SC Frankfurt"
-  },
-  {
-    "url": "https://moz.de/nc/service/weiteres/rss-feeds/?tx_rsmretrescorss_pi1%5Bshow%5D=100",
-    "outlet": "MOZ - Nachrichten aus Seelow"
-  },
-  {
-    "url": "https://moz.de/nc/service/weiteres/rss-feeds/?tx_rsmretrescorss_pi1%5Bshow%5D=101",
-    "outlet": "MOZ - Nachrichten aus Fürstenwalde"
-  },
-  {
-    "url": "https://moz.de/nc/service/weiteres/rss-feeds/?tx_rsmretrescorss_pi1%5Bshow%5D=102",
-    "outlet": "MOZ - Nachrichten aus der Uckermark"
-  },
-  {
-    "url": "https://moz.de/nc/service/weiteres/rss-feeds/?tx_rsmretrescorss_pi1%5Bshow%5D=103",
-    "outlet": "MOZ - Nachrichten aus Eisenhüttenstadt"
-  },
-  {
-    "url": "https://moz.de/nc/service/weiteres/rss-feeds/?tx_rsmretrescorss_pi1%5Bshow%5D=104",
-    "outlet": "MOZ - Regionalsport"
-  },
-  {
-    "url": "https://moz.de/nc/service/weiteres/rss-feeds/?tx_rsmretrescorss_pi1%5Bshow%5D=105",
-    "outlet": "MOZ - Nachrichten aus Bad Freienwalde"
-  },
-  {
-    "url": "https://moz.de/nc/service/weiteres/rss-feeds/?tx_rsmretrescorss_pi1%5Bshow%5D=106",
-    "outlet": "MOZ - Nachrichten aus Groß Kreutz und Potsdam-Mittelmark"
-  },
-  {
-    "url": "https://moz.de/nc/service/weiteres/rss-feeds/?tx_rsmretrescorss_pi1%5Bshow%5D=107",
-    "outlet": "MOZ - MOL-Sportlerwahl"
-  },
-  {
-    "url": "https://moz.de/nc/service/weiteres/rss-feeds/?tx_rsmretrescorss_pi1%5Bshow%5D=108",
-    "outlet": "MOZ - Nachrichten aus Beeskow"
-  },
-  {
-    "url": "https://moz.de/nc/service/weiteres/rss-feeds/?tx_rsmretrescorss_pi1%5Bshow%5D=109",
-    "outlet": "MOZ - Nachrichten aus Eberswalde"
-  },
-  {
-    "url": "https://moz.de/nc/service/weiteres/rss-feeds/?tx_rsmretrescorss_pi1%5Bshow%5D=110",
-    "outlet": "MOZ - Nachrichten aus Bernau"
-  },
-  {
-    "url": "https://moz.de/nc/service/weiteres/rss-feeds/?tx_rsmretrescorss_pi1%5Bshow%5D=111",
-    "outlet": "MOZ - Nachrichten aus Strausberg"
-  },
-  {
-    "url": "https://moz.de/nc/service/weiteres/rss-feeds/?tx_rsmretrescorss_pi1%5Bshow%5D=112",
-    "outlet": "MOZ - Tour de MOZ"
-  },
-  {
-    "url": "https://moz.de/nc/service/weiteres/rss-feeds/?tx_rsmretrescorss_pi1%5Bshow%5D=115",
-    "outlet": "MOZ - Auto"
-  },
-  {
-    "url": "https://moz.de/nc/service/weiteres/rss-feeds/?tx_rsmretrescorss_pi1%5Bshow%5D=116",
-    "outlet": "MOZ - Nachrichten aus Erkner"
-  },
-  {
-    "url": "https://moz.de/nc/service/weiteres/rss-feeds/?tx_rsmretrescorss_pi1%5Bshow%5D=117",
-    "outlet": "MOZ - Nachrichten aus Bad Freienwalde"
-  },
-  {
-    "url": "https://www.wp.de/staedte/menden/rss",
-    "outlet": "Westfalenpost"
-  },
-  {
-    "url": "https://www.wp.de/rss",
-    "outlet": "Westfalenpost"
-  },
-  {
-    "url": "https://www.wp.de/staedte/rss",
-    "outlet": "Westfalenpost"
-  },
-  {
-    "url": "https://www.wp.de/politik/rss",
-    "outlet": "Westfalenpost"
-  },
-  {
-    "url": "https://www.wp.de/wirtschaft/rss",
-    "outlet": "Westfalenpost"
-  },
-  {
-    "url": "https://www.butenunbinnen.de/feed/rss/nachrichten/neuste-nachrichten100.xml",
-    "outlet": "buten un binnen"
-  },
-  {
-    "url": "https://www.lokalkompass.de/feed/action/mode/realm/ID/0/",
-    "outlet": "Lokalkompass"
-  },
-  {
-    "url": "https://www.lokalkompass.de/feed/action/mode/state/ID/1/",
-    "outlet": "Lokalkompass"
-  },
-  {
-    "url": "https://www.nrz.de/rss",
-    "outlet": "NRZ"
-  },
-  {
-    "url": "https://www.nrz.de/staedte/dinslaken-huenxe-voerde/rss",
-    "outlet": "NRZ"
-  },
-  {
-    "url": "https://www.proplanta.de/web/xml/proplanta_rssnewsfeed.xml",
-    "outlet": "Proplanta"
-  },
-  {
-    "url": "https://verbaende.com/rss_verbandsmeldungen.php",
-    "outlet": "Deutsches Verbände Forum"
-  },
-  {
-    "url": "https://www.dortmund24.de/feed/",
-    "outlet": "Dortmund24"
-  },
-  {
-    "url": "https://www.bundesjustizportal.de/feed/",
-    "outlet": "BundesJustizPortal"
-  },
-  {
-    "url": "https://www.report-k.de/rss/feed/article",
-    "outlet": "report-K (Internetzeitung Köln)"
-  },
-  {
-    "url": "https://www.merkur.de/rssfeed.rdf",
-    "outlet": "Merkur"
-  },
-  {
-    "url": "https://www.merkur.de/politik/rssfeed.rdf",
-    "outlet": "Merkur"
-  },
-  {
-    "url": "https://www.kontextwochenzeitung.de/rss.xml",
-    "outlet": "Kontext"
-  },
-  {
-    "url": "https://www.lto.de/rss/feed.xml",
-    "outlet": "Legal Tribune Online"
-  },
-  {
-    "url": "https://blogs.taz.de/mainfeed/",
-    "outlet": "TAZ-Blogs"
-  },
-  {
-    "url": "https://www.morgenweb.de/feed/55-politik-rss-feed.xml",
-    "outlet": "Mannheimer Morgen"
-  },
-  {
-    "url": "https://kryptoszene.de/feed/",
-    "outlet": "Kryptoszene"
-  },
-  {
-    "url": "https://www.spreezeitung.de/feed/",
-    "outlet": "Spreezeitung"
-  },
-  {
-    "url": "https://www.abendblatt.de/?service=Rss",
-    "outlet": "Hamburger Abendblatt"
-  },
-  {
-    "url": "http://hessenschau.de/index.rss",
-    "outlet": "Hessenschau"
-  },
-  {
-    "url": "https://www.noz.de/rss/ressort/Osnabr%C3%BCck",
-    "outlet": "Neue Osnabrücker Zeitung"
-  },
-  {
-    "url": "http://www1.wdr.de/nachrichten/westfalen-lippe/uebersicht-westfalen-lippe-100.feed",
-    "outlet": "WDR"
-  },
-  {
-    "url": "http://www1.wdr.de/nachrichten/ruhrgebiet/uebersicht-ruhrgebiet-100.feed",
-    "outlet": "WDR"
-  },
-  {
-    "url": "http://www1.wdr.de/nachrichten/rheinland/uebersicht-rheinland-100.feed",
-    "outlet": "WDR"
-  },
-  {
-    "url": "http://www1.wdr.de/kultur/uebersicht-unterhaltung-100.feed",
-    "outlet": "WDR"
-  },
-  {
-    "url": "http://www1.wdr.de/kultur/uebersicht-kultur-100.feed",
-    "outlet": "WDR"
-  },
-  {
-    "url": "https://www1.wdr.de/kultur/kulturnachrichten/kulturnachrichten-106.feed",
-    "outlet": "WDR"
-  },
-  {
-    "url": "http://www1.wdr.de/verbraucher/uebersicht-verbraucher-100.feed",
-    "outlet": "WDR"
-  },
-  {
-    "url": "http://www1.wdr.de/wissen/uebersicht-sport-100.feed",
-    "outlet": "WDR"
-  },
-  {
-    "url": "http://www1.wdr.de/wissen/uebersicht-nachrichten-100.feed",
-    "outlet": "WDR"
-  },
-  {
-    "url": "http://www1.wdr.de/uebersicht-100.feed",
-    "outlet": "WDR"
-  },
-  {
-    "url": "http://www.sportschau.de/sportschauindex100.feed",
-    "outlet": "Sportschau"
-  },
-  {
-    "url": "http://podcast.wdr.de/radio/presseclubwdr5.xml",
-    "outlet": "Presseclub WDR"
-  },
-  {
-    "url": "http://podcast.wdr.de/hartaberfair.xml",
-    "outlet": "Hart aber Fair"
-  },
-  {
-    "url": "https://www.riffreporter.de/session/rss/free/",
-    "outlet": "RiffReporter"
-  },
-  {
-    "url": "https://www.antifainfoblatt.de/rss.xml",
-    "outlet": "Antifaschistisches Infoblatt"
-  },
-  {
-    "url": "http://www.lotta-magazin.de/feed",
-    "outlet": "Lotta Magazin"
-  },
-  {
-    "url": "https://www.der-rechte-rand.de/feed/",
-    "outlet": "der rechte rand"
-  },
-  {
-    "url": "https://www.cilip.de/feed/",
-    "outlet": "CILIP Institut und Zeitschrift"
-  },
-  {
-    "url": "https://aktentaucherin.de/feed",
-    "outlet": "Aktentaucherin: Die Kanzlei für Informationsfreiheit"
-  },
-  {
-    "url": "https://www.badische-zeitung.de/index.html.rss",
-    "outlet": "Badische Zeitung"
-  },
-  {
-    "url": "https://www.schwarzwaelder-bote.de/schwarzwald-baar.rss.feed",
-    "outlet": "Schwarzwälder Bote: Schwarzwald-Baar-Kreis"  
-  },
-  {
-    "url": "https://www.schwarzwaelder-bote.de/rottweil.rss.feed",
-    "outlet": "Schwarzwälder Bote: Kreis Rottweil"
-  },
-  {
-    "url": "https://www.schwarzwaelder-bote.de/zollernalb.rss.feed",
-    "outlet": "Schwarzwälder Bote: Zollernalbkreis"
-  },
-  {
-    "url": "https://www.schwarzwaelder-bote.de/freudenstadt.rss.feed",
-    "outlet": "Schwarzwälder Bote: Kreis Freudenstadt"
-  },
-  {
-    "url": "https://www.schwarzwaelder-bote.de/calw.rss.feed",
-    "outlet": "Schwarzwälder Bote: Kreis Calw"
-  },
-  {
-    "url": "https://www.schwarzwaelder-bote.de/ortenau.rss.feed",
-    "outlet": "Schwarzwälder Bote: Ortenaukreis"
+    "outlet": "Übermedien",
+    "url": "https://uebermedien.de/feed/"
   }
 ]
