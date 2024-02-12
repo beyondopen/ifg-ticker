@@ -168,11 +168,11 @@
   },
   {
     "outlet": "Frankfurter Rundschau",
-    "url": "www.fr.de/politik/rssfeed.rdf"
+    "url": "https://www.fr.de/politik/rssfeed.rdf"
   },
   {
     "outlet": "Frankfurter Rundschau",
-    "url": "www.fr.de/rssfeed.rdf"
+    "url": "https://www.fr.de/rssfeed.rdf"
   },
   {
     "outlet": "Freie Presse",
